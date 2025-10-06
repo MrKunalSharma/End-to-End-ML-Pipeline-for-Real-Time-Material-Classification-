@@ -1,0 +1,2482 @@
+2025-10-07 00:10:30,378 - src.utils.helpers - INFO - Starting conveyor simulation...
+2025-10-07 00:10:30,530 - src.utils.helpers - INFO - Loaded 390 frames for processing
+2025-10-07 00:10:30,538 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:10:30,538 - src.utils.helpers - INFO - Frame 1/390
+2025-10-07 00:10:30,539 - src.utils.helpers - INFO - Image: cardboard1.jpg
+2025-10-07 00:10:30,539 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9991)
+2025-10-07 00:10:30,539 - src.utils.helpers - INFO - Inference time: 6.82 ms
+2025-10-07 00:10:32,550 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:10:32,550 - src.utils.helpers - INFO - Frame 2/390
+2025-10-07 00:10:32,550 - src.utils.helpers - INFO - Image: cardboard107.jpg
+2025-10-07 00:10:32,551 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:10:32,551 - src.utils.helpers - INFO - Inference time: 18.19 ms
+2025-10-07 00:10:34,541 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:10:34,541 - src.utils.helpers - INFO - Frame 3/390
+2025-10-07 00:10:34,541 - src.utils.helpers - INFO - Image: cardboard112.jpg
+2025-10-07 00:10:34,541 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.4947)
+2025-10-07 00:10:34,541 - src.utils.helpers - INFO - Inference time: 7.64 ms
+2025-10-07 00:10:34,578 - src.utils.helpers - INFO - Added to retraining queue: cardboard112.jpg
+2025-10-07 00:10:36,553 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:10:36,557 - src.utils.helpers - INFO - Frame 4/390
+2025-10-07 00:10:36,557 - src.utils.helpers - INFO - Image: cardboard121.jpg
+2025-10-07 00:10:36,557 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9865)
+2025-10-07 00:10:36,558 - src.utils.helpers - INFO - Inference time: 20.89 ms
+2025-10-07 00:10:38,538 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:10:38,538 - src.utils.helpers - INFO - Frame 5/390
+2025-10-07 00:10:38,538 - src.utils.helpers - INFO - Image: cardboard126.jpg
+2025-10-07 00:10:38,539 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9990)
+2025-10-07 00:10:38,539 - src.utils.helpers - INFO - Inference time: 5.84 ms
+2025-10-07 00:10:40,541 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:10:40,541 - src.utils.helpers - INFO - Frame 6/390
+2025-10-07 00:10:40,541 - src.utils.helpers - INFO - Image: cardboard129.jpg
+2025-10-07 00:10:40,542 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9941)
+2025-10-07 00:10:40,542 - src.utils.helpers - INFO - Inference time: 7.54 ms
+2025-10-07 00:10:42,546 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:10:42,550 - src.utils.helpers - INFO - Frame 7/390
+2025-10-07 00:10:42,550 - src.utils.helpers - INFO - Image: cardboard134.jpg
+2025-10-07 00:10:42,551 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9854)
+2025-10-07 00:10:42,551 - src.utils.helpers - INFO - Inference time: 12.22 ms
+2025-10-07 00:10:44,545 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:10:44,545 - src.utils.helpers - INFO - Frame 8/390
+2025-10-07 00:10:44,545 - src.utils.helpers - INFO - Image: cardboard137.jpg
+2025-10-07 00:10:44,546 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9199)
+2025-10-07 00:10:44,546 - src.utils.helpers - INFO - Inference time: 10.85 ms
+2025-10-07 00:10:46,572 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:10:46,572 - src.utils.helpers - INFO - Frame 9/390
+2025-10-07 00:10:46,572 - src.utils.helpers - INFO - Image: cardboard149.jpg
+2025-10-07 00:10:46,573 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9996)
+2025-10-07 00:10:46,573 - src.utils.helpers - INFO - Inference time: 36.99 ms
+2025-10-07 00:10:48,553 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:10:48,553 - src.utils.helpers - INFO - Frame 10/390
+2025-10-07 00:10:48,553 - src.utils.helpers - INFO - Image: cardboard15.jpg
+2025-10-07 00:10:48,553 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.3972)
+2025-10-07 00:10:48,554 - src.utils.helpers - INFO - Inference time: 17.94 ms
+2025-10-07 00:10:48,556 - src.utils.helpers - INFO - Added to retraining queue: cardboard15.jpg
+2025-10-07 00:10:50,548 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:10:50,548 - src.utils.helpers - INFO - Frame 11/390
+2025-10-07 00:10:50,549 - src.utils.helpers - INFO - Image: cardboard162.jpg
+2025-10-07 00:10:50,549 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9113)
+2025-10-07 00:10:50,549 - src.utils.helpers - INFO - Inference time: 12.39 ms
+2025-10-07 00:10:52,543 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:10:52,543 - src.utils.helpers - INFO - Frame 12/390
+2025-10-07 00:10:52,543 - src.utils.helpers - INFO - Image: cardboard164.jpg
+2025-10-07 00:10:52,543 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:10:52,544 - src.utils.helpers - INFO - Inference time: 7.02 ms
+2025-10-07 00:10:54,559 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:10:54,559 - src.utils.helpers - INFO - Frame 13/390
+2025-10-07 00:10:54,559 - src.utils.helpers - INFO - Image: cardboard165.jpg
+2025-10-07 00:10:54,560 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:10:54,560 - src.utils.helpers - INFO - Inference time: 23.50 ms
+2025-10-07 00:10:56,555 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:10:56,555 - src.utils.helpers - INFO - Frame 14/390
+2025-10-07 00:10:56,556 - src.utils.helpers - INFO - Image: cardboard168.jpg
+2025-10-07 00:10:56,556 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9944)
+2025-10-07 00:10:56,556 - src.utils.helpers - INFO - Inference time: 17.79 ms
+2025-10-07 00:10:58,544 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:10:58,544 - src.utils.helpers - INFO - Frame 15/390
+2025-10-07 00:10:58,544 - src.utils.helpers - INFO - Image: cardboard17.jpg
+2025-10-07 00:10:58,544 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:10:58,545 - src.utils.helpers - INFO - Inference time: 6.78 ms
+2025-10-07 00:11:00,554 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:00,555 - src.utils.helpers - INFO - Frame 16/390
+2025-10-07 00:11:00,555 - src.utils.helpers - INFO - Image: cardboard170.jpg
+2025-10-07 00:11:00,555 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:11:00,555 - src.utils.helpers - INFO - Inference time: 16.85 ms
+2025-10-07 00:11:02,563 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:02,564 - src.utils.helpers - INFO - Frame 17/390
+2025-10-07 00:11:02,564 - src.utils.helpers - INFO - Image: cardboard175.jpg
+2025-10-07 00:11:02,564 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:11:02,564 - src.utils.helpers - INFO - Inference time: 25.14 ms
+2025-10-07 00:11:04,549 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:04,549 - src.utils.helpers - INFO - Frame 18/390
+2025-10-07 00:11:04,549 - src.utils.helpers - INFO - Image: cardboard180.jpg
+2025-10-07 00:11:04,550 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:11:04,550 - src.utils.helpers - INFO - Inference time: 10.23 ms
+2025-10-07 00:11:06,551 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:06,554 - src.utils.helpers - INFO - Frame 19/390
+2025-10-07 00:11:06,554 - src.utils.helpers - INFO - Image: cardboard183.jpg
+2025-10-07 00:11:06,554 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:11:06,555 - src.utils.helpers - INFO - Inference time: 11.65 ms
+2025-10-07 00:11:08,557 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:08,557 - src.utils.helpers - INFO - Frame 20/390
+2025-10-07 00:11:08,557 - src.utils.helpers - INFO - Image: cardboard184.jpg
+2025-10-07 00:11:08,557 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:11:08,558 - src.utils.helpers - INFO - Inference time: 18.62 ms
+2025-10-07 00:11:10,547 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:10,547 - src.utils.helpers - INFO - Frame 21/390
+2025-10-07 00:11:10,548 - src.utils.helpers - INFO - Image: cardboard200.jpg
+2025-10-07 00:11:10,548 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:11:10,548 - src.utils.helpers - INFO - Inference time: 8.57 ms
+2025-10-07 00:11:12,547 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:12,547 - src.utils.helpers - INFO - Frame 22/390
+2025-10-07 00:11:12,547 - src.utils.helpers - INFO - Image: cardboard203.jpg
+2025-10-07 00:11:12,548 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9987)
+2025-10-07 00:11:12,548 - src.utils.helpers - INFO - Inference time: 7.28 ms
+2025-10-07 00:11:14,547 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:14,547 - src.utils.helpers - INFO - Frame 23/390
+2025-10-07 00:11:14,547 - src.utils.helpers - INFO - Image: cardboard212.jpg
+2025-10-07 00:11:14,548 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9994)
+2025-10-07 00:11:14,548 - src.utils.helpers - INFO - Inference time: 7.03 ms
+2025-10-07 00:11:16,547 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:16,547 - src.utils.helpers - INFO - Frame 24/390
+2025-10-07 00:11:16,548 - src.utils.helpers - INFO - Image: cardboard222.jpg
+2025-10-07 00:11:16,548 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:11:16,548 - src.utils.helpers - INFO - Inference time: 6.88 ms
+2025-10-07 00:11:18,553 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:18,554 - src.utils.helpers - INFO - Frame 25/390
+2025-10-07 00:11:18,554 - src.utils.helpers - INFO - Image: cardboard226.jpg
+2025-10-07 00:11:18,554 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9981)
+2025-10-07 00:11:18,554 - src.utils.helpers - INFO - Inference time: 10.72 ms
+2025-10-07 00:11:20,572 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:20,572 - src.utils.helpers - INFO - Frame 26/390
+2025-10-07 00:11:20,572 - src.utils.helpers - INFO - Image: cardboard23.jpg
+2025-10-07 00:11:20,573 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9938)
+2025-10-07 00:11:20,573 - src.utils.helpers - INFO - Inference time: 29.27 ms
+2025-10-07 00:11:22,551 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:22,552 - src.utils.helpers - INFO - Frame 27/390
+2025-10-07 00:11:22,552 - src.utils.helpers - INFO - Image: cardboard248.jpg
+2025-10-07 00:11:22,552 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9996)
+2025-10-07 00:11:22,552 - src.utils.helpers - INFO - Inference time: 8.36 ms
+2025-10-07 00:11:24,559 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:24,559 - src.utils.helpers - INFO - Frame 28/390
+2025-10-07 00:11:24,559 - src.utils.helpers - INFO - Image: cardboard255.jpg
+2025-10-07 00:11:24,559 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:11:24,560 - src.utils.helpers - INFO - Inference time: 15.92 ms
+2025-10-07 00:11:26,565 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:26,566 - src.utils.helpers - INFO - Frame 29/390
+2025-10-07 00:11:26,566 - src.utils.helpers - INFO - Image: cardboard262.jpg
+2025-10-07 00:11:26,566 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:11:26,566 - src.utils.helpers - INFO - Inference time: 22.02 ms
+2025-10-07 00:11:28,569 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:28,570 - src.utils.helpers - INFO - Frame 30/390
+2025-10-07 00:11:28,570 - src.utils.helpers - INFO - Image: cardboard265.jpg
+2025-10-07 00:11:28,570 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9998)
+2025-10-07 00:11:28,570 - src.utils.helpers - INFO - Inference time: 25.05 ms
+2025-10-07 00:11:30,574 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:30,574 - src.utils.helpers - INFO - Frame 31/390
+2025-10-07 00:11:30,575 - src.utils.helpers - INFO - Image: cardboard275.jpg
+2025-10-07 00:11:30,575 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:11:30,575 - src.utils.helpers - INFO - Inference time: 29.85 ms
+2025-10-07 00:11:32,552 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:32,553 - src.utils.helpers - INFO - Frame 32/390
+2025-10-07 00:11:32,553 - src.utils.helpers - INFO - Image: cardboard312.jpg
+2025-10-07 00:11:32,553 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9996)
+2025-10-07 00:11:32,553 - src.utils.helpers - INFO - Inference time: 7.25 ms
+2025-10-07 00:11:34,551 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:34,551 - src.utils.helpers - INFO - Frame 33/390
+2025-10-07 00:11:34,552 - src.utils.helpers - INFO - Image: cardboard319.jpg
+2025-10-07 00:11:34,552 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9706)
+2025-10-07 00:11:34,552 - src.utils.helpers - INFO - Inference time: 6.59 ms
+2025-10-07 00:11:36,582 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:36,583 - src.utils.helpers - INFO - Frame 34/390
+2025-10-07 00:11:36,583 - src.utils.helpers - INFO - Image: cardboard338.jpg
+2025-10-07 00:11:36,583 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:11:36,583 - src.utils.helpers - INFO - Inference time: 36.86 ms
+2025-10-07 00:11:38,553 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:38,553 - src.utils.helpers - INFO - Frame 35/390
+2025-10-07 00:11:38,554 - src.utils.helpers - INFO - Image: cardboard343.jpg
+2025-10-07 00:11:38,554 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9846)
+2025-10-07 00:11:38,554 - src.utils.helpers - INFO - Inference time: 6.49 ms
+2025-10-07 00:11:40,575 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:40,576 - src.utils.helpers - INFO - Frame 36/390
+2025-10-07 00:11:40,576 - src.utils.helpers - INFO - Image: cardboard344.jpg
+2025-10-07 00:11:40,576 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:11:40,576 - src.utils.helpers - INFO - Inference time: 26.87 ms
+2025-10-07 00:11:42,580 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:42,580 - src.utils.helpers - INFO - Frame 37/390
+2025-10-07 00:11:42,581 - src.utils.helpers - INFO - Image: cardboard349.jpg
+2025-10-07 00:11:42,581 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:11:42,581 - src.utils.helpers - INFO - Inference time: 30.97 ms
+2025-10-07 00:11:44,556 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:44,556 - src.utils.helpers - INFO - Frame 38/390
+2025-10-07 00:11:44,556 - src.utils.helpers - INFO - Image: cardboard356.jpg
+2025-10-07 00:11:44,557 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:11:44,557 - src.utils.helpers - INFO - Inference time: 7.12 ms
+2025-10-07 00:11:46,565 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:46,566 - src.utils.helpers - INFO - Frame 39/390
+2025-10-07 00:11:46,566 - src.utils.helpers - INFO - Image: cardboard360.jpg
+2025-10-07 00:11:46,566 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9991)
+2025-10-07 00:11:46,566 - src.utils.helpers - INFO - Inference time: 15.73 ms
+2025-10-07 00:11:48,584 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:48,584 - src.utils.helpers - INFO - Frame 40/390
+2025-10-07 00:11:48,584 - src.utils.helpers - INFO - Image: cardboard361.jpg
+2025-10-07 00:11:48,585 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.5252)
+2025-10-07 00:11:48,585 - src.utils.helpers - INFO - Inference time: 33.94 ms
+2025-10-07 00:11:48,587 - src.utils.helpers - INFO - Added to retraining queue: cardboard361.jpg
+2025-10-07 00:11:50,575 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:50,575 - src.utils.helpers - INFO - Frame 41/390
+2025-10-07 00:11:50,575 - src.utils.helpers - INFO - Image: cardboard364.jpg
+2025-10-07 00:11:50,575 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9970)
+2025-10-07 00:11:50,575 - src.utils.helpers - INFO - Inference time: 23.19 ms
+2025-10-07 00:11:52,560 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:52,561 - src.utils.helpers - INFO - Frame 42/390
+2025-10-07 00:11:52,561 - src.utils.helpers - INFO - Image: cardboard366.jpg
+2025-10-07 00:11:52,561 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9976)
+2025-10-07 00:11:52,561 - src.utils.helpers - INFO - Inference time: 9.87 ms
+2025-10-07 00:11:54,589 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:54,589 - src.utils.helpers - INFO - Frame 43/390
+2025-10-07 00:11:54,589 - src.utils.helpers - INFO - Image: cardboard384.jpg
+2025-10-07 00:11:54,589 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.6031)
+2025-10-07 00:11:54,590 - src.utils.helpers - INFO - Inference time: 37.56 ms
+2025-10-07 00:11:54,592 - src.utils.helpers - INFO - Added to retraining queue: cardboard384.jpg
+2025-10-07 00:11:56,579 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:56,580 - src.utils.helpers - INFO - Frame 44/390
+2025-10-07 00:11:56,580 - src.utils.helpers - INFO - Image: cardboard391.jpg
+2025-10-07 00:11:56,580 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:11:56,580 - src.utils.helpers - INFO - Inference time: 27.50 ms
+2025-10-07 00:11:58,566 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:11:58,566 - src.utils.helpers - INFO - Frame 45/390
+2025-10-07 00:11:58,566 - src.utils.helpers - INFO - Image: cardboard401.jpg
+2025-10-07 00:11:58,566 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:11:58,566 - src.utils.helpers - INFO - Inference time: 14.81 ms
+2025-10-07 00:12:00,558 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:00,560 - src.utils.helpers - INFO - Frame 46/390
+2025-10-07 00:12:00,561 - src.utils.helpers - INFO - Image: cardboard50.jpg
+2025-10-07 00:12:00,561 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9991)
+2025-10-07 00:12:00,561 - src.utils.helpers - INFO - Inference time: 6.31 ms
+2025-10-07 00:12:02,570 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:02,570 - src.utils.helpers - INFO - Frame 47/390
+2025-10-07 00:12:02,571 - src.utils.helpers - INFO - Image: cardboard54.jpg
+2025-10-07 00:12:02,571 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9658)
+2025-10-07 00:12:02,571 - src.utils.helpers - INFO - Inference time: 18.18 ms
+2025-10-07 00:12:04,560 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:04,560 - src.utils.helpers - INFO - Frame 48/390
+2025-10-07 00:12:04,560 - src.utils.helpers - INFO - Image: cardboard55.jpg
+2025-10-07 00:12:04,560 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:12:04,561 - src.utils.helpers - INFO - Inference time: 6.83 ms
+2025-10-07 00:12:06,561 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:06,562 - src.utils.helpers - INFO - Frame 49/390
+2025-10-07 00:12:06,562 - src.utils.helpers - INFO - Image: cardboard59.jpg
+2025-10-07 00:12:06,562 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9999)
+2025-10-07 00:12:06,562 - src.utils.helpers - INFO - Inference time: 6.66 ms
+2025-10-07 00:12:08,561 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:08,562 - src.utils.helpers - INFO - Frame 50/390
+2025-10-07 00:12:08,565 - src.utils.helpers - INFO - Image: cardboard60.jpg
+2025-10-07 00:12:08,565 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:12:08,565 - src.utils.helpers - INFO - Inference time: 7.04 ms
+2025-10-07 00:12:10,569 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:10,569 - src.utils.helpers - INFO - Frame 51/390
+2025-10-07 00:12:10,570 - src.utils.helpers - INFO - Image: cardboard62.jpg
+2025-10-07 00:12:10,570 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:12:10,570 - src.utils.helpers - INFO - Inference time: 14.40 ms
+2025-10-07 00:12:12,573 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:12,574 - src.utils.helpers - INFO - Frame 52/390
+2025-10-07 00:12:12,574 - src.utils.helpers - INFO - Image: cardboard7.jpg
+2025-10-07 00:12:12,574 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:12:12,574 - src.utils.helpers - INFO - Inference time: 17.86 ms
+2025-10-07 00:12:14,568 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:14,568 - src.utils.helpers - INFO - Frame 53/390
+2025-10-07 00:12:14,569 - src.utils.helpers - INFO - Image: cardboard74.jpg
+2025-10-07 00:12:14,569 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:12:14,569 - src.utils.helpers - INFO - Inference time: 12.54 ms
+2025-10-07 00:12:16,563 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:16,564 - src.utils.helpers - INFO - Frame 54/390
+2025-10-07 00:12:16,564 - src.utils.helpers - INFO - Image: cardboard81.jpg
+2025-10-07 00:12:16,564 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:12:16,564 - src.utils.helpers - INFO - Inference time: 7.37 ms
+2025-10-07 00:12:18,565 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:18,566 - src.utils.helpers - INFO - Frame 55/390
+2025-10-07 00:12:18,566 - src.utils.helpers - INFO - Image: cardboard91.jpg
+2025-10-07 00:12:18,566 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9998)
+2025-10-07 00:12:18,566 - src.utils.helpers - INFO - Inference time: 9.77 ms
+2025-10-07 00:12:20,572 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:20,572 - src.utils.helpers - INFO - Frame 56/390
+2025-10-07 00:12:20,573 - src.utils.helpers - INFO - Image: cardboard92.jpg
+2025-10-07 00:12:20,573 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9997)
+2025-10-07 00:12:20,573 - src.utils.helpers - INFO - Inference time: 15.46 ms
+2025-10-07 00:12:22,564 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:22,564 - src.utils.helpers - INFO - Frame 57/390
+2025-10-07 00:12:22,565 - src.utils.helpers - INFO - Image: cardboard96.jpg
+2025-10-07 00:12:22,565 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9998)
+2025-10-07 00:12:22,565 - src.utils.helpers - INFO - Inference time: 7.78 ms
+2025-10-07 00:12:24,565 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:24,565 - src.utils.helpers - INFO - Frame 58/390
+2025-10-07 00:12:24,565 - src.utils.helpers - INFO - Image: cardboard97.jpg
+2025-10-07 00:12:24,566 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:12:24,566 - src.utils.helpers - INFO - Inference time: 6.74 ms
+2025-10-07 00:12:26,565 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:26,566 - src.utils.helpers - INFO - Frame 59/390
+2025-10-07 00:12:26,566 - src.utils.helpers - INFO - Image: cardboard98.jpg
+2025-10-07 00:12:26,566 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 1.0000)
+2025-10-07 00:12:26,566 - src.utils.helpers - INFO - Inference time: 6.92 ms
+2025-10-07 00:12:28,568 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:28,568 - src.utils.helpers - INFO - Frame 60/390
+2025-10-07 00:12:28,569 - src.utils.helpers - INFO - Image: cardboard99.jpg
+2025-10-07 00:12:28,569 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9971)
+2025-10-07 00:12:28,569 - src.utils.helpers - INFO - Inference time: 8.82 ms
+2025-10-07 00:12:30,568 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:30,568 - src.utils.helpers - INFO - Frame 61/390
+2025-10-07 00:12:30,569 - src.utils.helpers - INFO - Image: dummy_005.jpg
+2025-10-07 00:12:30,569 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.8669)
+2025-10-07 00:12:30,569 - src.utils.helpers - INFO - Inference time: 7.62 ms
+2025-10-07 00:12:32,568 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:32,568 - src.utils.helpers - INFO - Frame 62/390
+2025-10-07 00:12:32,568 - src.utils.helpers - INFO - Image: dummy_006.jpg
+2025-10-07 00:12:32,568 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.8442)
+2025-10-07 00:12:32,568 - src.utils.helpers - INFO - Inference time: 6.98 ms
+2025-10-07 00:12:34,570 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:34,571 - src.utils.helpers - INFO - Frame 63/390
+2025-10-07 00:12:34,571 - src.utils.helpers - INFO - Image: dummy_000.jpg
+2025-10-07 00:12:34,571 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.4756)
+2025-10-07 00:12:34,571 - src.utils.helpers - INFO - Inference time: 8.84 ms
+2025-10-07 00:12:34,574 - src.utils.helpers - INFO - Added to retraining queue: dummy_000.jpg
+2025-10-07 00:12:36,570 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:36,571 - src.utils.helpers - INFO - Frame 64/390
+2025-10-07 00:12:36,571 - src.utils.helpers - INFO - Image: dummy_002.jpg
+2025-10-07 00:12:36,571 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.2858)
+2025-10-07 00:12:36,571 - src.utils.helpers - INFO - Inference time: 8.14 ms
+2025-10-07 00:12:36,574 - src.utils.helpers - INFO - Added to retraining queue: dummy_002.jpg
+2025-10-07 00:12:38,568 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:38,569 - src.utils.helpers - INFO - Frame 65/390
+2025-10-07 00:12:38,569 - src.utils.helpers - INFO - Image: dummy_009.jpg
+2025-10-07 00:12:38,569 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.4749)
+2025-10-07 00:12:38,569 - src.utils.helpers - INFO - Inference time: 7.29 ms
+2025-10-07 00:12:38,571 - src.utils.helpers - INFO - Added to retraining queue: dummy_009.jpg
+2025-10-07 00:12:40,568 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:40,569 - src.utils.helpers - INFO - Frame 66/390
+2025-10-07 00:12:40,569 - src.utils.helpers - INFO - Image: glass10.jpg
+2025-10-07 00:12:40,569 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.4972)
+2025-10-07 00:12:40,569 - src.utils.helpers - INFO - Inference time: 6.79 ms
+2025-10-07 00:12:40,572 - src.utils.helpers - INFO - Added to retraining queue: glass10.jpg
+2025-10-07 00:12:42,572 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:42,573 - src.utils.helpers - INFO - Frame 67/390
+2025-10-07 00:12:42,573 - src.utils.helpers - INFO - Image: glass106.jpg
+2025-10-07 00:12:42,573 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.4311)
+2025-10-07 00:12:42,573 - src.utils.helpers - INFO - Inference time: 7.80 ms
+2025-10-07 00:12:42,576 - src.utils.helpers - INFO - Added to retraining queue: glass106.jpg
+2025-10-07 00:12:44,572 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:44,572 - src.utils.helpers - INFO - Frame 68/390
+2025-10-07 00:12:44,573 - src.utils.helpers - INFO - Image: glass11.jpg
+2025-10-07 00:12:44,573 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.6127)
+2025-10-07 00:12:44,573 - src.utils.helpers - INFO - Inference time: 7.35 ms
+2025-10-07 00:12:44,575 - src.utils.helpers - INFO - Added to retraining queue: glass11.jpg
+2025-10-07 00:12:46,570 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:46,570 - src.utils.helpers - INFO - Frame 69/390
+2025-10-07 00:12:46,571 - src.utils.helpers - INFO - Image: glass117.jpg
+2025-10-07 00:12:46,571 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.4402)
+2025-10-07 00:12:46,571 - src.utils.helpers - INFO - Inference time: 6.86 ms
+2025-10-07 00:12:46,572 - src.utils.helpers - INFO - Added to retraining queue: glass117.jpg
+2025-10-07 00:12:48,572 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:48,572 - src.utils.helpers - INFO - Frame 70/390
+2025-10-07 00:12:48,572 - src.utils.helpers - INFO - Image: glass12.jpg
+2025-10-07 00:12:48,573 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.6451)
+2025-10-07 00:12:48,573 - src.utils.helpers - INFO - Inference time: 7.24 ms
+2025-10-07 00:12:48,575 - src.utils.helpers - INFO - Added to retraining queue: glass12.jpg
+2025-10-07 00:12:50,573 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:50,574 - src.utils.helpers - INFO - Frame 71/390
+2025-10-07 00:12:50,574 - src.utils.helpers - INFO - Image: glass14.jpg
+2025-10-07 00:12:50,574 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.4307)
+2025-10-07 00:12:50,574 - src.utils.helpers - INFO - Inference time: 8.16 ms
+2025-10-07 00:12:50,577 - src.utils.helpers - INFO - Added to retraining queue: glass14.jpg
+2025-10-07 00:12:52,573 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:52,573 - src.utils.helpers - INFO - Frame 72/390
+2025-10-07 00:12:52,574 - src.utils.helpers - INFO - Image: glass147.jpg
+2025-10-07 00:12:52,574 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.6507)
+2025-10-07 00:12:52,574 - src.utils.helpers - INFO - Inference time: 7.51 ms
+2025-10-07 00:12:52,576 - src.utils.helpers - INFO - Added to retraining queue: glass147.jpg
+2025-10-07 00:12:54,571 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:54,572 - src.utils.helpers - INFO - Frame 73/390
+2025-10-07 00:12:54,572 - src.utils.helpers - INFO - Image: glass151.jpg
+2025-10-07 00:12:54,572 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.8780)
+2025-10-07 00:12:54,572 - src.utils.helpers - INFO - Inference time: 6.55 ms
+2025-10-07 00:12:56,575 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:56,575 - src.utils.helpers - INFO - Frame 74/390
+2025-10-07 00:12:56,575 - src.utils.helpers - INFO - Image: glass153.jpg
+2025-10-07 00:12:56,575 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.8531)
+2025-10-07 00:12:56,576 - src.utils.helpers - INFO - Inference time: 7.41 ms
+2025-10-07 00:12:58,588 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:12:58,589 - src.utils.helpers - INFO - Frame 75/390
+2025-10-07 00:12:58,589 - src.utils.helpers - INFO - Image: glass155.jpg
+2025-10-07 00:12:58,589 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.7086)
+2025-10-07 00:12:58,590 - src.utils.helpers - INFO - Inference time: 20.75 ms
+2025-10-07 00:13:00,579 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:00,579 - src.utils.helpers - INFO - Frame 76/390
+2025-10-07 00:13:00,579 - src.utils.helpers - INFO - Image: glass156.jpg
+2025-10-07 00:13:00,580 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.9492)
+2025-10-07 00:13:00,580 - src.utils.helpers - INFO - Inference time: 9.07 ms
+2025-10-07 00:13:02,587 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:02,588 - src.utils.helpers - INFO - Frame 77/390
+2025-10-07 00:13:02,588 - src.utils.helpers - INFO - Image: glass159.jpg
+2025-10-07 00:13:02,588 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.7034)
+2025-10-07 00:13:02,588 - src.utils.helpers - INFO - Inference time: 19.64 ms
+2025-10-07 00:13:04,582 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:04,583 - src.utils.helpers - INFO - Frame 78/390
+2025-10-07 00:13:04,583 - src.utils.helpers - INFO - Image: glass16.jpg
+2025-10-07 00:13:04,583 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.8700)
+2025-10-07 00:13:04,583 - src.utils.helpers - INFO - Inference time: 12.65 ms
+2025-10-07 00:13:06,592 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:06,593 - src.utils.helpers - INFO - Frame 79/390
+2025-10-07 00:13:06,593 - src.utils.helpers - INFO - Image: glass160.jpg
+2025-10-07 00:13:06,593 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.7798)
+2025-10-07 00:13:06,593 - src.utils.helpers - INFO - Inference time: 21.60 ms
+2025-10-07 00:13:08,591 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:08,591 - src.utils.helpers - INFO - Frame 80/390
+2025-10-07 00:13:08,591 - src.utils.helpers - INFO - Image: glass161.jpg
+2025-10-07 00:13:08,591 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.7869)
+2025-10-07 00:13:08,592 - src.utils.helpers - INFO - Inference time: 19.66 ms
+2025-10-07 00:13:10,587 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:10,587 - src.utils.helpers - INFO - Frame 81/390
+2025-10-07 00:13:10,587 - src.utils.helpers - INFO - Image: glass164.jpg
+2025-10-07 00:13:10,588 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.8568)
+2025-10-07 00:13:10,588 - src.utils.helpers - INFO - Inference time: 15.31 ms
+2025-10-07 00:13:12,588 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:12,588 - src.utils.helpers - INFO - Frame 82/390
+2025-10-07 00:13:12,588 - src.utils.helpers - INFO - Image: glass166.jpg
+2025-10-07 00:13:12,588 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.5282)
+2025-10-07 00:13:12,589 - src.utils.helpers - INFO - Inference time: 15.74 ms
+2025-10-07 00:13:12,591 - src.utils.helpers - INFO - Added to retraining queue: glass166.jpg
+2025-10-07 00:13:14,592 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:14,592 - src.utils.helpers - INFO - Frame 83/390
+2025-10-07 00:13:14,592 - src.utils.helpers - INFO - Image: glass174.jpg
+2025-10-07 00:13:14,592 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.8915)
+2025-10-07 00:13:14,592 - src.utils.helpers - INFO - Inference time: 20.16 ms
+2025-10-07 00:13:16,582 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:16,582 - src.utils.helpers - INFO - Frame 84/390
+2025-10-07 00:13:16,583 - src.utils.helpers - INFO - Image: glass181.jpg
+2025-10-07 00:13:16,583 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.6245)
+2025-10-07 00:13:16,583 - src.utils.helpers - INFO - Inference time: 9.29 ms
+2025-10-07 00:13:16,586 - src.utils.helpers - INFO - Added to retraining queue: glass181.jpg
+2025-10-07 00:13:18,599 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:18,599 - src.utils.helpers - INFO - Frame 85/390
+2025-10-07 00:13:18,599 - src.utils.helpers - INFO - Image: glass184.jpg
+2025-10-07 00:13:18,600 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.3494)
+2025-10-07 00:13:18,600 - src.utils.helpers - INFO - Inference time: 25.43 ms
+2025-10-07 00:13:18,602 - src.utils.helpers - INFO - Added to retraining queue: glass184.jpg
+2025-10-07 00:13:20,589 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:20,589 - src.utils.helpers - INFO - Frame 86/390
+2025-10-07 00:13:20,590 - src.utils.helpers - INFO - Image: glass196.jpg
+2025-10-07 00:13:20,590 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.7206)
+2025-10-07 00:13:20,590 - src.utils.helpers - INFO - Inference time: 16.12 ms
+2025-10-07 00:13:22,583 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:22,584 - src.utils.helpers - INFO - Frame 87/390
+2025-10-07 00:13:22,584 - src.utils.helpers - INFO - Image: glass201.jpg
+2025-10-07 00:13:22,584 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.5603)
+2025-10-07 00:13:22,584 - src.utils.helpers - INFO - Inference time: 10.14 ms
+2025-10-07 00:13:22,587 - src.utils.helpers - INFO - Added to retraining queue: glass201.jpg
+2025-10-07 00:13:24,585 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:24,588 - src.utils.helpers - INFO - Frame 88/390
+2025-10-07 00:13:24,589 - src.utils.helpers - INFO - Image: glass208.jpg
+2025-10-07 00:13:24,589 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.4461)
+2025-10-07 00:13:24,589 - src.utils.helpers - INFO - Inference time: 12.27 ms
+2025-10-07 00:13:24,591 - src.utils.helpers - INFO - Added to retraining queue: glass208.jpg
+2025-10-07 00:13:26,580 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:26,581 - src.utils.helpers - INFO - Frame 89/390
+2025-10-07 00:13:26,581 - src.utils.helpers - INFO - Image: glass209.jpg
+2025-10-07 00:13:26,581 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.8317)
+2025-10-07 00:13:26,582 - src.utils.helpers - INFO - Inference time: 6.79 ms
+2025-10-07 00:13:28,585 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:28,586 - src.utils.helpers - INFO - Frame 90/390
+2025-10-07 00:13:28,586 - src.utils.helpers - INFO - Image: glass223.jpg
+2025-10-07 00:13:28,586 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.6087)
+2025-10-07 00:13:28,586 - src.utils.helpers - INFO - Inference time: 10.69 ms
+2025-10-07 00:13:28,589 - src.utils.helpers - INFO - Added to retraining queue: glass223.jpg
+2025-10-07 00:13:30,583 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:30,583 - src.utils.helpers - INFO - Frame 91/390
+2025-10-07 00:13:30,583 - src.utils.helpers - INFO - Image: glass228.jpg
+2025-10-07 00:13:30,583 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.6041)
+2025-10-07 00:13:30,584 - src.utils.helpers - INFO - Inference time: 7.33 ms
+2025-10-07 00:13:30,586 - src.utils.helpers - INFO - Added to retraining queue: glass228.jpg
+2025-10-07 00:13:32,584 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:32,589 - src.utils.helpers - INFO - Frame 92/390
+2025-10-07 00:13:32,590 - src.utils.helpers - INFO - Image: glass229.jpg
+2025-10-07 00:13:32,590 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.4459)
+2025-10-07 00:13:32,590 - src.utils.helpers - INFO - Inference time: 8.03 ms
+2025-10-07 00:13:32,592 - src.utils.helpers - INFO - Added to retraining queue: glass229.jpg
+2025-10-07 00:13:34,614 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:34,615 - src.utils.helpers - INFO - Frame 93/390
+2025-10-07 00:13:34,615 - src.utils.helpers - INFO - Image: glass23.jpg
+2025-10-07 00:13:34,615 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.7703)
+2025-10-07 00:13:34,615 - src.utils.helpers - INFO - Inference time: 37.84 ms
+2025-10-07 00:13:36,584 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:36,585 - src.utils.helpers - INFO - Frame 94/390
+2025-10-07 00:13:36,585 - src.utils.helpers - INFO - Image: glass240.jpg
+2025-10-07 00:13:36,585 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.8299)
+2025-10-07 00:13:36,585 - src.utils.helpers - INFO - Inference time: 7.20 ms
+2025-10-07 00:13:38,589 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:38,590 - src.utils.helpers - INFO - Frame 95/390
+2025-10-07 00:13:38,590 - src.utils.helpers - INFO - Image: glass245.jpg
+2025-10-07 00:13:38,590 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.7458)
+2025-10-07 00:13:38,590 - src.utils.helpers - INFO - Inference time: 11.15 ms
+2025-10-07 00:13:40,587 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:40,588 - src.utils.helpers - INFO - Frame 96/390
+2025-10-07 00:13:40,588 - src.utils.helpers - INFO - Image: glass246.jpg
+2025-10-07 00:13:40,588 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.9613)
+2025-10-07 00:13:40,589 - src.utils.helpers - INFO - Inference time: 9.96 ms
+2025-10-07 00:13:42,586 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:42,586 - src.utils.helpers - INFO - Frame 97/390
+2025-10-07 00:13:42,586 - src.utils.helpers - INFO - Image: glass249.jpg
+2025-10-07 00:13:42,587 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.4055)
+2025-10-07 00:13:42,587 - src.utils.helpers - INFO - Inference time: 7.62 ms
+2025-10-07 00:13:42,590 - src.utils.helpers - INFO - Added to retraining queue: glass249.jpg
+2025-10-07 00:13:44,589 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:44,590 - src.utils.helpers - INFO - Frame 98/390
+2025-10-07 00:13:44,590 - src.utils.helpers - INFO - Image: glass252.jpg
+2025-10-07 00:13:44,590 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.3560)
+2025-10-07 00:13:44,591 - src.utils.helpers - INFO - Inference time: 11.07 ms
+2025-10-07 00:13:44,593 - src.utils.helpers - INFO - Added to retraining queue: glass252.jpg
+2025-10-07 00:13:46,588 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:46,588 - src.utils.helpers - INFO - Frame 99/390
+2025-10-07 00:13:46,588 - src.utils.helpers - INFO - Image: glass253.jpg
+2025-10-07 00:13:46,588 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.6230)
+2025-10-07 00:13:46,589 - src.utils.helpers - INFO - Inference time: 8.89 ms
+2025-10-07 00:13:46,591 - src.utils.helpers - INFO - Added to retraining queue: glass253.jpg
+2025-10-07 00:13:48,592 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:48,594 - src.utils.helpers - INFO - Frame 100/390
+2025-10-07 00:13:48,594 - src.utils.helpers - INFO - Image: glass287.jpg
+2025-10-07 00:13:48,594 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.6665)
+2025-10-07 00:13:48,594 - src.utils.helpers - INFO - Inference time: 11.74 ms
+2025-10-07 00:13:48,597 - src.utils.helpers - INFO - Added to retraining queue: glass287.jpg
+2025-10-07 00:13:50,591 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:50,591 - src.utils.helpers - INFO - Frame 101/390
+2025-10-07 00:13:50,592 - src.utils.helpers - INFO - Image: glass295.jpg
+2025-10-07 00:13:50,592 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.9008)
+2025-10-07 00:13:50,592 - src.utils.helpers - INFO - Inference time: 10.59 ms
+2025-10-07 00:13:52,593 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:52,593 - src.utils.helpers - INFO - Frame 102/390
+2025-10-07 00:13:52,593 - src.utils.helpers - INFO - Image: glass314.jpg
+2025-10-07 00:13:52,593 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.7407)
+2025-10-07 00:13:52,594 - src.utils.helpers - INFO - Inference time: 11.30 ms
+2025-10-07 00:13:54,589 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:54,589 - src.utils.helpers - INFO - Frame 103/390
+2025-10-07 00:13:54,589 - src.utils.helpers - INFO - Image: glass32.jpg
+2025-10-07 00:13:54,589 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.4061)
+2025-10-07 00:13:54,590 - src.utils.helpers - INFO - Inference time: 8.05 ms
+2025-10-07 00:13:54,593 - src.utils.helpers - INFO - Added to retraining queue: glass32.jpg
+2025-10-07 00:13:56,598 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:56,598 - src.utils.helpers - INFO - Frame 104/390
+2025-10-07 00:13:56,598 - src.utils.helpers - INFO - Image: glass329.jpg
+2025-10-07 00:13:56,599 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.6738)
+2025-10-07 00:13:56,599 - src.utils.helpers - INFO - Inference time: 14.97 ms
+2025-10-07 00:13:56,601 - src.utils.helpers - INFO - Added to retraining queue: glass329.jpg
+2025-10-07 00:13:58,592 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:13:58,593 - src.utils.helpers - INFO - Frame 105/390
+2025-10-07 00:13:58,593 - src.utils.helpers - INFO - Image: glass337.jpg
+2025-10-07 00:13:58,593 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.8507)
+2025-10-07 00:13:58,593 - src.utils.helpers - INFO - Inference time: 10.15 ms
+2025-10-07 00:14:00,590 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:00,590 - src.utils.helpers - INFO - Frame 106/390
+2025-10-07 00:14:00,590 - src.utils.helpers - INFO - Image: glass343.jpg
+2025-10-07 00:14:00,591 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.9112)
+2025-10-07 00:14:00,591 - src.utils.helpers - INFO - Inference time: 8.27 ms
+2025-10-07 00:14:02,592 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:02,592 - src.utils.helpers - INFO - Frame 107/390
+2025-10-07 00:14:02,592 - src.utils.helpers - INFO - Image: glass346.jpg
+2025-10-07 00:14:02,592 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.7293)
+2025-10-07 00:14:02,593 - src.utils.helpers - INFO - Inference time: 9.71 ms
+2025-10-07 00:14:04,591 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:04,591 - src.utils.helpers - INFO - Frame 108/390
+2025-10-07 00:14:04,591 - src.utils.helpers - INFO - Image: glass348.jpg
+2025-10-07 00:14:04,592 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9587)
+2025-10-07 00:14:04,592 - src.utils.helpers - INFO - Inference time: 8.84 ms
+2025-10-07 00:14:06,595 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:06,597 - src.utils.helpers - INFO - Frame 109/390
+2025-10-07 00:14:06,597 - src.utils.helpers - INFO - Image: glass362.jpg
+2025-10-07 00:14:06,597 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.8017)
+2025-10-07 00:14:06,597 - src.utils.helpers - INFO - Inference time: 10.86 ms
+2025-10-07 00:14:08,596 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:08,597 - src.utils.helpers - INFO - Frame 110/390
+2025-10-07 00:14:08,597 - src.utils.helpers - INFO - Image: glass370.jpg
+2025-10-07 00:14:08,597 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.9543)
+2025-10-07 00:14:08,597 - src.utils.helpers - INFO - Inference time: 11.59 ms
+2025-10-07 00:14:10,597 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:10,597 - src.utils.helpers - INFO - Frame 111/390
+2025-10-07 00:14:10,597 - src.utils.helpers - INFO - Image: glass381.jpg
+2025-10-07 00:14:10,597 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.8588)
+2025-10-07 00:14:10,598 - src.utils.helpers - INFO - Inference time: 10.71 ms
+2025-10-07 00:14:12,601 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:12,602 - src.utils.helpers - INFO - Frame 112/390
+2025-10-07 00:14:12,602 - src.utils.helpers - INFO - Image: glass397.jpg
+2025-10-07 00:14:12,602 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.6798)
+2025-10-07 00:14:12,602 - src.utils.helpers - INFO - Inference time: 15.61 ms
+2025-10-07 00:14:12,605 - src.utils.helpers - INFO - Added to retraining queue: glass397.jpg
+2025-10-07 00:14:14,598 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:14,598 - src.utils.helpers - INFO - Frame 113/390
+2025-10-07 00:14:14,598 - src.utils.helpers - INFO - Image: glass398.jpg
+2025-10-07 00:14:14,599 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.9158)
+2025-10-07 00:14:14,599 - src.utils.helpers - INFO - Inference time: 11.38 ms
+2025-10-07 00:14:16,599 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:16,599 - src.utils.helpers - INFO - Frame 114/390
+2025-10-07 00:14:16,599 - src.utils.helpers - INFO - Image: glass399.jpg
+2025-10-07 00:14:16,599 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.8989)
+2025-10-07 00:14:16,600 - src.utils.helpers - INFO - Inference time: 11.45 ms
+2025-10-07 00:14:18,595 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:18,596 - src.utils.helpers - INFO - Frame 115/390
+2025-10-07 00:14:18,596 - src.utils.helpers - INFO - Image: glass419.jpg
+2025-10-07 00:14:18,596 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.8361)
+2025-10-07 00:14:18,596 - src.utils.helpers - INFO - Inference time: 8.64 ms
+2025-10-07 00:14:20,594 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:20,594 - src.utils.helpers - INFO - Frame 116/390
+2025-10-07 00:14:20,594 - src.utils.helpers - INFO - Image: glass428.jpg
+2025-10-07 00:14:20,594 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.2811)
+2025-10-07 00:14:20,595 - src.utils.helpers - INFO - Inference time: 6.41 ms
+2025-10-07 00:14:20,597 - src.utils.helpers - INFO - Added to retraining queue: glass428.jpg
+2025-10-07 00:14:22,608 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:22,609 - src.utils.helpers - INFO - Frame 117/390
+2025-10-07 00:14:22,609 - src.utils.helpers - INFO - Image: glass438.jpg
+2025-10-07 00:14:22,609 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.6148)
+2025-10-07 00:14:22,609 - src.utils.helpers - INFO - Inference time: 19.97 ms
+2025-10-07 00:14:22,611 - src.utils.helpers - INFO - Added to retraining queue: glass438.jpg
+2025-10-07 00:14:24,604 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:24,605 - src.utils.helpers - INFO - Frame 118/390
+2025-10-07 00:14:24,605 - src.utils.helpers - INFO - Image: glass45.jpg
+2025-10-07 00:14:24,605 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.8379)
+2025-10-07 00:14:24,606 - src.utils.helpers - INFO - Inference time: 15.86 ms
+2025-10-07 00:14:26,611 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:26,611 - src.utils.helpers - INFO - Frame 119/390
+2025-10-07 00:14:26,612 - src.utils.helpers - INFO - Image: glass450.jpg
+2025-10-07 00:14:26,612 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.4761)
+2025-10-07 00:14:26,612 - src.utils.helpers - INFO - Inference time: 22.32 ms
+2025-10-07 00:14:26,614 - src.utils.helpers - INFO - Added to retraining queue: glass450.jpg
+2025-10-07 00:14:28,601 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:28,601 - src.utils.helpers - INFO - Frame 120/390
+2025-10-07 00:14:28,602 - src.utils.helpers - INFO - Image: glass459.jpg
+2025-10-07 00:14:28,602 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.7085)
+2025-10-07 00:14:28,602 - src.utils.helpers - INFO - Inference time: 11.22 ms
+2025-10-07 00:14:30,602 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:30,602 - src.utils.helpers - INFO - Frame 121/390
+2025-10-07 00:14:30,603 - src.utils.helpers - INFO - Image: glass46.jpg
+2025-10-07 00:14:30,603 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.7854)
+2025-10-07 00:14:30,603 - src.utils.helpers - INFO - Inference time: 11.93 ms
+2025-10-07 00:14:32,598 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:32,598 - src.utils.helpers - INFO - Frame 122/390
+2025-10-07 00:14:32,598 - src.utils.helpers - INFO - Image: glass463.jpg
+2025-10-07 00:14:32,598 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.5788)
+2025-10-07 00:14:32,598 - src.utils.helpers - INFO - Inference time: 7.43 ms
+2025-10-07 00:14:32,601 - src.utils.helpers - INFO - Added to retraining queue: glass463.jpg
+2025-10-07 00:14:34,597 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:34,598 - src.utils.helpers - INFO - Frame 123/390
+2025-10-07 00:14:34,598 - src.utils.helpers - INFO - Image: glass471.jpg
+2025-10-07 00:14:34,598 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9832)
+2025-10-07 00:14:34,598 - src.utils.helpers - INFO - Inference time: 7.87 ms
+2025-10-07 00:14:36,616 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:36,616 - src.utils.helpers - INFO - Frame 124/390
+2025-10-07 00:14:36,616 - src.utils.helpers - INFO - Image: glass474.jpg
+2025-10-07 00:14:36,616 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.9061)
+2025-10-07 00:14:36,617 - src.utils.helpers - INFO - Inference time: 24.28 ms
+2025-10-07 00:14:38,598 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:38,598 - src.utils.helpers - INFO - Frame 125/390
+2025-10-07 00:14:38,599 - src.utils.helpers - INFO - Image: glass480.jpg
+2025-10-07 00:14:38,599 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.7040)
+2025-10-07 00:14:38,599 - src.utils.helpers - INFO - Inference time: 6.75 ms
+2025-10-07 00:14:40,615 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:40,615 - src.utils.helpers - INFO - Frame 126/390
+2025-10-07 00:14:40,615 - src.utils.helpers - INFO - Image: glass496.jpg
+2025-10-07 00:14:40,616 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.3463)
+2025-10-07 00:14:40,616 - src.utils.helpers - INFO - Inference time: 22.96 ms
+2025-10-07 00:14:40,618 - src.utils.helpers - INFO - Added to retraining queue: glass496.jpg
+2025-10-07 00:14:42,605 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:42,607 - src.utils.helpers - INFO - Frame 127/390
+2025-10-07 00:14:42,607 - src.utils.helpers - INFO - Image: glass498.jpg
+2025-10-07 00:14:42,608 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.8953)
+2025-10-07 00:14:42,608 - src.utils.helpers - INFO - Inference time: 13.03 ms
+2025-10-07 00:14:44,613 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:44,613 - src.utils.helpers - INFO - Frame 128/390
+2025-10-07 00:14:44,613 - src.utils.helpers - INFO - Image: glass499.jpg
+2025-10-07 00:14:44,613 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.3603)
+2025-10-07 00:14:44,614 - src.utils.helpers - INFO - Inference time: 19.06 ms
+2025-10-07 00:14:44,616 - src.utils.helpers - INFO - Added to retraining queue: glass499.jpg
+2025-10-07 00:14:46,603 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:46,603 - src.utils.helpers - INFO - Frame 129/390
+2025-10-07 00:14:46,604 - src.utils.helpers - INFO - Image: glass53.jpg
+2025-10-07 00:14:46,604 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.9479)
+2025-10-07 00:14:46,604 - src.utils.helpers - INFO - Inference time: 8.49 ms
+2025-10-07 00:14:48,609 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:48,609 - src.utils.helpers - INFO - Frame 130/390
+2025-10-07 00:14:48,610 - src.utils.helpers - INFO - Image: glass64.jpg
+2025-10-07 00:14:48,610 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.7562)
+2025-10-07 00:14:48,610 - src.utils.helpers - INFO - Inference time: 13.66 ms
+2025-10-07 00:14:50,606 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:50,606 - src.utils.helpers - INFO - Frame 131/390
+2025-10-07 00:14:50,606 - src.utils.helpers - INFO - Image: glass68.jpg
+2025-10-07 00:14:50,606 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.6245)
+2025-10-07 00:14:50,607 - src.utils.helpers - INFO - Inference time: 10.63 ms
+2025-10-07 00:14:50,609 - src.utils.helpers - INFO - Added to retraining queue: glass68.jpg
+2025-10-07 00:14:52,610 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:52,610 - src.utils.helpers - INFO - Frame 132/390
+2025-10-07 00:14:52,610 - src.utils.helpers - INFO - Image: glass70.jpg
+2025-10-07 00:14:52,611 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.9424)
+2025-10-07 00:14:52,611 - src.utils.helpers - INFO - Inference time: 14.62 ms
+2025-10-07 00:14:54,605 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:54,605 - src.utils.helpers - INFO - Frame 133/390
+2025-10-07 00:14:54,605 - src.utils.helpers - INFO - Image: glass76.jpg
+2025-10-07 00:14:54,605 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.7251)
+2025-10-07 00:14:54,606 - src.utils.helpers - INFO - Inference time: 9.45 ms
+2025-10-07 00:14:56,603 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:56,604 - src.utils.helpers - INFO - Frame 134/390
+2025-10-07 00:14:56,604 - src.utils.helpers - INFO - Image: glass80.jpg
+2025-10-07 00:14:56,605 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.8815)
+2025-10-07 00:14:56,605 - src.utils.helpers - INFO - Inference time: 7.47 ms
+2025-10-07 00:14:58,606 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:14:58,607 - src.utils.helpers - INFO - Frame 135/390
+2025-10-07 00:14:58,607 - src.utils.helpers - INFO - Image: glass86.jpg
+2025-10-07 00:14:58,607 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.3283)
+2025-10-07 00:14:58,608 - src.utils.helpers - INFO - Inference time: 10.05 ms
+2025-10-07 00:14:58,610 - src.utils.helpers - INFO - Added to retraining queue: glass86.jpg
+2025-10-07 00:15:00,606 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:00,606 - src.utils.helpers - INFO - Frame 136/390
+2025-10-07 00:15:00,606 - src.utils.helpers - INFO - Image: glass88.jpg
+2025-10-07 00:15:00,607 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.5171)
+2025-10-07 00:15:00,607 - src.utils.helpers - INFO - Inference time: 8.82 ms
+2025-10-07 00:15:00,609 - src.utils.helpers - INFO - Added to retraining queue: glass88.jpg
+2025-10-07 00:15:02,608 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:02,609 - src.utils.helpers - INFO - Frame 137/390
+2025-10-07 00:15:02,609 - src.utils.helpers - INFO - Image: glass91.jpg
+2025-10-07 00:15:02,609 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.5460)
+2025-10-07 00:15:02,609 - src.utils.helpers - INFO - Inference time: 10.98 ms
+2025-10-07 00:15:02,612 - src.utils.helpers - INFO - Added to retraining queue: glass91.jpg
+2025-10-07 00:15:04,608 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:04,608 - src.utils.helpers - INFO - Frame 138/390
+2025-10-07 00:15:04,609 - src.utils.helpers - INFO - Image: glass94.jpg
+2025-10-07 00:15:04,609 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.5630)
+2025-10-07 00:15:04,609 - src.utils.helpers - INFO - Inference time: 10.08 ms
+2025-10-07 00:15:04,611 - src.utils.helpers - INFO - Added to retraining queue: glass94.jpg
+2025-10-07 00:15:06,611 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:06,611 - src.utils.helpers - INFO - Frame 139/390
+2025-10-07 00:15:06,611 - src.utils.helpers - INFO - Image: glass98.jpg
+2025-10-07 00:15:06,611 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9764)
+2025-10-07 00:15:06,612 - src.utils.helpers - INFO - Inference time: 11.73 ms
+2025-10-07 00:15:08,610 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:08,610 - src.utils.helpers - INFO - Frame 140/390
+2025-10-07 00:15:08,610 - src.utils.helpers - INFO - Image: dummy_000.jpg
+2025-10-07 00:15:08,610 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.2715)
+2025-10-07 00:15:08,611 - src.utils.helpers - INFO - Inference time: 7.99 ms
+2025-10-07 00:15:08,613 - src.utils.helpers - INFO - Added to retraining queue: dummy_000.jpg
+2025-10-07 00:15:10,613 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:10,613 - src.utils.helpers - INFO - Frame 141/390
+2025-10-07 00:15:10,613 - src.utils.helpers - INFO - Image: dummy_009.jpg
+2025-10-07 00:15:10,613 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.2428)
+2025-10-07 00:15:10,613 - src.utils.helpers - INFO - Inference time: 11.86 ms
+2025-10-07 00:15:10,616 - src.utils.helpers - INFO - Added to retraining queue: dummy_009.jpg
+2025-10-07 00:15:12,612 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:12,613 - src.utils.helpers - INFO - Frame 142/390
+2025-10-07 00:15:12,613 - src.utils.helpers - INFO - Image: metal103.jpg
+2025-10-07 00:15:12,613 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.5423)
+2025-10-07 00:15:12,613 - src.utils.helpers - INFO - Inference time: 12.12 ms
+2025-10-07 00:15:12,616 - src.utils.helpers - INFO - Added to retraining queue: metal103.jpg
+2025-10-07 00:15:14,609 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:14,609 - src.utils.helpers - INFO - Frame 143/390
+2025-10-07 00:15:14,610 - src.utils.helpers - INFO - Image: metal107.jpg
+2025-10-07 00:15:14,610 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.7994)
+2025-10-07 00:15:14,610 - src.utils.helpers - INFO - Inference time: 8.57 ms
+2025-10-07 00:15:16,611 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:16,611 - src.utils.helpers - INFO - Frame 144/390
+2025-10-07 00:15:16,611 - src.utils.helpers - INFO - Image: metal112.jpg
+2025-10-07 00:15:16,611 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.6635)
+2025-10-07 00:15:16,612 - src.utils.helpers - INFO - Inference time: 9.91 ms
+2025-10-07 00:15:16,615 - src.utils.helpers - INFO - Added to retraining queue: metal112.jpg
+2025-10-07 00:15:18,611 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:18,611 - src.utils.helpers - INFO - Frame 145/390
+2025-10-07 00:15:18,611 - src.utils.helpers - INFO - Image: metal117.jpg
+2025-10-07 00:15:18,611 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.5768)
+2025-10-07 00:15:18,611 - src.utils.helpers - INFO - Inference time: 9.31 ms
+2025-10-07 00:15:18,614 - src.utils.helpers - INFO - Added to retraining queue: metal117.jpg
+2025-10-07 00:15:20,614 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:20,614 - src.utils.helpers - INFO - Frame 146/390
+2025-10-07 00:15:20,614 - src.utils.helpers - INFO - Image: metal12.jpg
+2025-10-07 00:15:20,615 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.5795)
+2025-10-07 00:15:20,615 - src.utils.helpers - INFO - Inference time: 11.10 ms
+2025-10-07 00:15:20,617 - src.utils.helpers - INFO - Added to retraining queue: metal12.jpg
+2025-10-07 00:15:22,613 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:22,614 - src.utils.helpers - INFO - Frame 147/390
+2025-10-07 00:15:22,614 - src.utils.helpers - INFO - Image: metal125.jpg
+2025-10-07 00:15:22,614 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.8376)
+2025-10-07 00:15:22,614 - src.utils.helpers - INFO - Inference time: 10.75 ms
+2025-10-07 00:15:24,611 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:24,611 - src.utils.helpers - INFO - Frame 148/390
+2025-10-07 00:15:24,611 - src.utils.helpers - INFO - Image: metal14.jpg
+2025-10-07 00:15:24,612 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.6108)
+2025-10-07 00:15:24,612 - src.utils.helpers - INFO - Inference time: 8.49 ms
+2025-10-07 00:15:24,614 - src.utils.helpers - INFO - Added to retraining queue: metal14.jpg
+2025-10-07 00:15:26,615 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:26,615 - src.utils.helpers - INFO - Frame 149/390
+2025-10-07 00:15:26,615 - src.utils.helpers - INFO - Image: metal140.jpg
+2025-10-07 00:15:26,615 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9990)
+2025-10-07 00:15:26,615 - src.utils.helpers - INFO - Inference time: 10.81 ms
+2025-10-07 00:15:28,614 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:28,614 - src.utils.helpers - INFO - Frame 150/390
+2025-10-07 00:15:28,614 - src.utils.helpers - INFO - Image: metal153.jpg
+2025-10-07 00:15:28,614 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.5199)
+2025-10-07 00:15:28,615 - src.utils.helpers - INFO - Inference time: 10.64 ms
+2025-10-07 00:15:28,617 - src.utils.helpers - INFO - Added to retraining queue: metal153.jpg
+2025-10-07 00:15:30,613 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:30,614 - src.utils.helpers - INFO - Frame 151/390
+2025-10-07 00:15:30,615 - src.utils.helpers - INFO - Image: metal155.jpg
+2025-10-07 00:15:30,615 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.5177)
+2025-10-07 00:15:30,616 - src.utils.helpers - INFO - Inference time: 9.03 ms
+2025-10-07 00:15:30,623 - src.utils.helpers - INFO - Added to retraining queue: metal155.jpg
+2025-10-07 00:15:32,616 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:32,617 - src.utils.helpers - INFO - Frame 152/390
+2025-10-07 00:15:32,617 - src.utils.helpers - INFO - Image: metal156.jpg
+2025-10-07 00:15:32,617 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.6211)
+2025-10-07 00:15:32,618 - src.utils.helpers - INFO - Inference time: 11.00 ms
+2025-10-07 00:15:32,620 - src.utils.helpers - INFO - Added to retraining queue: metal156.jpg
+2025-10-07 00:15:34,619 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:34,619 - src.utils.helpers - INFO - Frame 153/390
+2025-10-07 00:15:34,619 - src.utils.helpers - INFO - Image: metal158.jpg
+2025-10-07 00:15:34,619 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9849)
+2025-10-07 00:15:34,620 - src.utils.helpers - INFO - Inference time: 13.18 ms
+2025-10-07 00:15:36,615 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:36,615 - src.utils.helpers - INFO - Frame 154/390
+2025-10-07 00:15:36,615 - src.utils.helpers - INFO - Image: metal159.jpg
+2025-10-07 00:15:36,615 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.7077)
+2025-10-07 00:15:36,616 - src.utils.helpers - INFO - Inference time: 7.34 ms
+2025-10-07 00:15:38,616 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:38,616 - src.utils.helpers - INFO - Frame 155/390
+2025-10-07 00:15:38,616 - src.utils.helpers - INFO - Image: metal16.jpg
+2025-10-07 00:15:38,617 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9109)
+2025-10-07 00:15:38,617 - src.utils.helpers - INFO - Inference time: 8.02 ms
+2025-10-07 00:15:40,614 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:40,615 - src.utils.helpers - INFO - Frame 156/390
+2025-10-07 00:15:40,615 - src.utils.helpers - INFO - Image: metal160.jpg
+2025-10-07 00:15:40,615 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.4569)
+2025-10-07 00:15:40,615 - src.utils.helpers - INFO - Inference time: 6.97 ms
+2025-10-07 00:15:40,618 - src.utils.helpers - INFO - Added to retraining queue: metal160.jpg
+2025-10-07 00:15:42,634 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:42,634 - src.utils.helpers - INFO - Frame 157/390
+2025-10-07 00:15:42,634 - src.utils.helpers - INFO - Image: metal161.jpg
+2025-10-07 00:15:42,634 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9720)
+2025-10-07 00:15:42,634 - src.utils.helpers - INFO - Inference time: 24.41 ms
+2025-10-07 00:15:44,616 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:44,616 - src.utils.helpers - INFO - Frame 158/390
+2025-10-07 00:15:44,617 - src.utils.helpers - INFO - Image: metal164.jpg
+2025-10-07 00:15:44,617 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.5503)
+2025-10-07 00:15:44,617 - src.utils.helpers - INFO - Inference time: 7.93 ms
+2025-10-07 00:15:44,620 - src.utils.helpers - INFO - Added to retraining queue: metal164.jpg
+2025-10-07 00:15:46,616 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:46,616 - src.utils.helpers - INFO - Frame 159/390
+2025-10-07 00:15:46,617 - src.utils.helpers - INFO - Image: metal171.jpg
+2025-10-07 00:15:46,617 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.7524)
+2025-10-07 00:15:46,617 - src.utils.helpers - INFO - Inference time: 7.69 ms
+2025-10-07 00:15:48,617 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:48,617 - src.utils.helpers - INFO - Frame 160/390
+2025-10-07 00:15:48,617 - src.utils.helpers - INFO - Image: metal175.jpg
+2025-10-07 00:15:48,618 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.7633)
+2025-10-07 00:15:48,618 - src.utils.helpers - INFO - Inference time: 7.63 ms
+2025-10-07 00:15:50,621 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:50,622 - src.utils.helpers - INFO - Frame 161/390
+2025-10-07 00:15:50,622 - src.utils.helpers - INFO - Image: metal184.jpg
+2025-10-07 00:15:50,622 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9809)
+2025-10-07 00:15:50,622 - src.utils.helpers - INFO - Inference time: 10.66 ms
+2025-10-07 00:15:52,622 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:52,622 - src.utils.helpers - INFO - Frame 162/390
+2025-10-07 00:15:52,622 - src.utils.helpers - INFO - Image: metal192.jpg
+2025-10-07 00:15:52,622 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.5201)
+2025-10-07 00:15:52,623 - src.utils.helpers - INFO - Inference time: 9.78 ms
+2025-10-07 00:15:52,625 - src.utils.helpers - INFO - Added to retraining queue: metal192.jpg
+2025-10-07 00:15:54,621 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:54,621 - src.utils.helpers - INFO - Frame 163/390
+2025-10-07 00:15:54,622 - src.utils.helpers - INFO - Image: metal195.jpg
+2025-10-07 00:15:54,622 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9881)
+2025-10-07 00:15:54,622 - src.utils.helpers - INFO - Inference time: 9.79 ms
+2025-10-07 00:15:56,621 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:56,622 - src.utils.helpers - INFO - Frame 164/390
+2025-10-07 00:15:56,622 - src.utils.helpers - INFO - Image: metal209.jpg
+2025-10-07 00:15:56,622 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.5578)
+2025-10-07 00:15:56,622 - src.utils.helpers - INFO - Inference time: 9.23 ms
+2025-10-07 00:15:56,624 - src.utils.helpers - INFO - Added to retraining queue: metal209.jpg
+2025-10-07 00:15:58,623 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:15:58,623 - src.utils.helpers - INFO - Frame 165/390
+2025-10-07 00:15:58,623 - src.utils.helpers - INFO - Image: metal213.jpg
+2025-10-07 00:15:58,623 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.4644)
+2025-10-07 00:15:58,623 - src.utils.helpers - INFO - Inference time: 8.17 ms
+2025-10-07 00:15:58,625 - src.utils.helpers - INFO - Added to retraining queue: metal213.jpg
+2025-10-07 00:16:00,627 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:00,627 - src.utils.helpers - INFO - Frame 166/390
+2025-10-07 00:16:00,627 - src.utils.helpers - INFO - Image: metal220.jpg
+2025-10-07 00:16:00,628 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.6914)
+2025-10-07 00:16:00,628 - src.utils.helpers - INFO - Inference time: 14.35 ms
+2025-10-07 00:16:00,630 - src.utils.helpers - INFO - Added to retraining queue: metal220.jpg
+2025-10-07 00:16:02,623 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:02,623 - src.utils.helpers - INFO - Frame 167/390
+2025-10-07 00:16:02,624 - src.utils.helpers - INFO - Image: metal223.jpg
+2025-10-07 00:16:02,624 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.5767)
+2025-10-07 00:16:02,624 - src.utils.helpers - INFO - Inference time: 10.12 ms
+2025-10-07 00:16:02,626 - src.utils.helpers - INFO - Added to retraining queue: metal223.jpg
+2025-10-07 00:16:04,624 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:04,624 - src.utils.helpers - INFO - Frame 168/390
+2025-10-07 00:16:04,625 - src.utils.helpers - INFO - Image: metal241.jpg
+2025-10-07 00:16:04,625 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9418)
+2025-10-07 00:16:04,625 - src.utils.helpers - INFO - Inference time: 10.08 ms
+2025-10-07 00:16:06,628 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:06,629 - src.utils.helpers - INFO - Frame 169/390
+2025-10-07 00:16:06,629 - src.utils.helpers - INFO - Image: metal248.jpg
+2025-10-07 00:16:06,629 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9164)
+2025-10-07 00:16:06,629 - src.utils.helpers - INFO - Inference time: 13.13 ms
+2025-10-07 00:16:08,625 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:08,625 - src.utils.helpers - INFO - Frame 170/390
+2025-10-07 00:16:08,626 - src.utils.helpers - INFO - Image: metal256.jpg
+2025-10-07 00:16:08,626 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.6827)
+2025-10-07 00:16:08,626 - src.utils.helpers - INFO - Inference time: 10.09 ms
+2025-10-07 00:16:08,628 - src.utils.helpers - INFO - Added to retraining queue: metal256.jpg
+2025-10-07 00:16:10,633 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:10,634 - src.utils.helpers - INFO - Frame 171/390
+2025-10-07 00:16:10,634 - src.utils.helpers - INFO - Image: metal263.jpg
+2025-10-07 00:16:10,634 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.6006)
+2025-10-07 00:16:10,634 - src.utils.helpers - INFO - Inference time: 16.79 ms
+2025-10-07 00:16:10,637 - src.utils.helpers - INFO - Added to retraining queue: metal263.jpg
+2025-10-07 00:16:12,623 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:12,624 - src.utils.helpers - INFO - Frame 172/390
+2025-10-07 00:16:12,624 - src.utils.helpers - INFO - Image: metal265.jpg
+2025-10-07 00:16:12,624 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9005)
+2025-10-07 00:16:12,624 - src.utils.helpers - INFO - Inference time: 7.21 ms
+2025-10-07 00:16:14,626 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:14,626 - src.utils.helpers - INFO - Frame 173/390
+2025-10-07 00:16:14,626 - src.utils.helpers - INFO - Image: metal267.jpg
+2025-10-07 00:16:14,627 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.8395)
+2025-10-07 00:16:14,627 - src.utils.helpers - INFO - Inference time: 8.57 ms
+2025-10-07 00:16:16,625 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:16,625 - src.utils.helpers - INFO - Frame 174/390
+2025-10-07 00:16:16,625 - src.utils.helpers - INFO - Image: metal278.jpg
+2025-10-07 00:16:16,625 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.8383)
+2025-10-07 00:16:16,626 - src.utils.helpers - INFO - Inference time: 7.50 ms
+2025-10-07 00:16:18,631 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:18,631 - src.utils.helpers - INFO - Frame 175/390
+2025-10-07 00:16:18,631 - src.utils.helpers - INFO - Image: metal287.jpg
+2025-10-07 00:16:18,632 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.5048)
+2025-10-07 00:16:18,632 - src.utils.helpers - INFO - Inference time: 12.72 ms
+2025-10-07 00:16:18,635 - src.utils.helpers - INFO - Added to retraining queue: metal287.jpg
+2025-10-07 00:16:20,626 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:20,627 - src.utils.helpers - INFO - Frame 176/390
+2025-10-07 00:16:20,631 - src.utils.helpers - INFO - Image: metal296.jpg
+2025-10-07 00:16:20,631 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.3466)
+2025-10-07 00:16:20,631 - src.utils.helpers - INFO - Inference time: 7.11 ms
+2025-10-07 00:16:20,634 - src.utils.helpers - INFO - Added to retraining queue: metal296.jpg
+2025-10-07 00:16:22,640 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:22,641 - src.utils.helpers - INFO - Frame 177/390
+2025-10-07 00:16:22,641 - src.utils.helpers - INFO - Image: metal299.jpg
+2025-10-07 00:16:22,641 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.8334)
+2025-10-07 00:16:22,641 - src.utils.helpers - INFO - Inference time: 19.96 ms
+2025-10-07 00:16:24,633 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:24,634 - src.utils.helpers - INFO - Frame 178/390
+2025-10-07 00:16:24,634 - src.utils.helpers - INFO - Image: metal305.jpg
+2025-10-07 00:16:24,634 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.6734)
+2025-10-07 00:16:24,635 - src.utils.helpers - INFO - Inference time: 11.77 ms
+2025-10-07 00:16:24,637 - src.utils.helpers - INFO - Added to retraining queue: metal305.jpg
+2025-10-07 00:16:26,627 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:26,632 - src.utils.helpers - INFO - Frame 179/390
+2025-10-07 00:16:26,632 - src.utils.helpers - INFO - Image: metal312.jpg
+2025-10-07 00:16:26,632 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9478)
+2025-10-07 00:16:26,632 - src.utils.helpers - INFO - Inference time: 6.55 ms
+2025-10-07 00:16:28,635 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:28,635 - src.utils.helpers - INFO - Frame 180/390
+2025-10-07 00:16:28,635 - src.utils.helpers - INFO - Image: metal326.jpg
+2025-10-07 00:16:28,635 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9389)
+2025-10-07 00:16:28,635 - src.utils.helpers - INFO - Inference time: 12.59 ms
+2025-10-07 00:16:30,633 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:30,634 - src.utils.helpers - INFO - Frame 181/390
+2025-10-07 00:16:30,634 - src.utils.helpers - INFO - Image: metal334.jpg
+2025-10-07 00:16:30,634 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9289)
+2025-10-07 00:16:30,634 - src.utils.helpers - INFO - Inference time: 10.45 ms
+2025-10-07 00:16:32,657 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:32,658 - src.utils.helpers - INFO - Frame 182/390
+2025-10-07 00:16:32,658 - src.utils.helpers - INFO - Image: metal34.jpg
+2025-10-07 00:16:32,658 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.8656)
+2025-10-07 00:16:32,658 - src.utils.helpers - INFO - Inference time: 34.08 ms
+2025-10-07 00:16:34,630 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:34,630 - src.utils.helpers - INFO - Frame 183/390
+2025-10-07 00:16:34,630 - src.utils.helpers - INFO - Image: metal340.jpg
+2025-10-07 00:16:34,631 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.7664)
+2025-10-07 00:16:34,631 - src.utils.helpers - INFO - Inference time: 6.50 ms
+2025-10-07 00:16:36,632 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:36,633 - src.utils.helpers - INFO - Frame 184/390
+2025-10-07 00:16:36,633 - src.utils.helpers - INFO - Image: metal342.jpg
+2025-10-07 00:16:36,633 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9893)
+2025-10-07 00:16:36,633 - src.utils.helpers - INFO - Inference time: 8.20 ms
+2025-10-07 00:16:38,638 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:38,638 - src.utils.helpers - INFO - Frame 185/390
+2025-10-07 00:16:38,638 - src.utils.helpers - INFO - Image: metal355.jpg
+2025-10-07 00:16:38,639 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.7495)
+2025-10-07 00:16:38,639 - src.utils.helpers - INFO - Inference time: 13.32 ms
+2025-10-07 00:16:40,634 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:40,635 - src.utils.helpers - INFO - Frame 186/390
+2025-10-07 00:16:40,638 - src.utils.helpers - INFO - Image: metal358.jpg
+2025-10-07 00:16:40,638 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.4466)
+2025-10-07 00:16:40,638 - src.utils.helpers - INFO - Inference time: 7.48 ms
+2025-10-07 00:16:40,640 - src.utils.helpers - INFO - Added to retraining queue: metal358.jpg
+2025-10-07 00:16:42,644 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:42,644 - src.utils.helpers - INFO - Frame 187/390
+2025-10-07 00:16:42,645 - src.utils.helpers - INFO - Image: metal376.jpg
+2025-10-07 00:16:42,645 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.8199)
+2025-10-07 00:16:42,645 - src.utils.helpers - INFO - Inference time: 18.73 ms
+2025-10-07 00:16:44,633 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:44,633 - src.utils.helpers - INFO - Frame 188/390
+2025-10-07 00:16:44,633 - src.utils.helpers - INFO - Image: metal384.jpg
+2025-10-07 00:16:44,633 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.7089)
+2025-10-07 00:16:44,634 - src.utils.helpers - INFO - Inference time: 7.13 ms
+2025-10-07 00:16:46,635 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:46,635 - src.utils.helpers - INFO - Frame 189/390
+2025-10-07 00:16:46,636 - src.utils.helpers - INFO - Image: metal387.jpg
+2025-10-07 00:16:46,636 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.8230)
+2025-10-07 00:16:46,636 - src.utils.helpers - INFO - Inference time: 7.22 ms
+2025-10-07 00:16:48,642 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:48,642 - src.utils.helpers - INFO - Frame 190/390
+2025-10-07 00:16:48,642 - src.utils.helpers - INFO - Image: metal391.jpg
+2025-10-07 00:16:48,642 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.5373)
+2025-10-07 00:16:48,643 - src.utils.helpers - INFO - Inference time: 13.51 ms
+2025-10-07 00:16:48,645 - src.utils.helpers - INFO - Added to retraining queue: metal391.jpg
+2025-10-07 00:16:50,637 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:50,638 - src.utils.helpers - INFO - Frame 191/390
+2025-10-07 00:16:50,638 - src.utils.helpers - INFO - Image: metal394.jpg
+2025-10-07 00:16:50,638 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9180)
+2025-10-07 00:16:50,639 - src.utils.helpers - INFO - Inference time: 7.52 ms
+2025-10-07 00:16:52,638 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:52,638 - src.utils.helpers - INFO - Frame 192/390
+2025-10-07 00:16:52,638 - src.utils.helpers - INFO - Image: metal402.jpg
+2025-10-07 00:16:52,638 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.5459)
+2025-10-07 00:16:52,638 - src.utils.helpers - INFO - Inference time: 7.56 ms
+2025-10-07 00:16:52,642 - src.utils.helpers - INFO - Added to retraining queue: metal402.jpg
+2025-10-07 00:16:54,644 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:54,644 - src.utils.helpers - INFO - Frame 193/390
+2025-10-07 00:16:54,644 - src.utils.helpers - INFO - Image: metal408.jpg
+2025-10-07 00:16:54,644 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.5176)
+2025-10-07 00:16:54,645 - src.utils.helpers - INFO - Inference time: 13.45 ms
+2025-10-07 00:16:54,647 - src.utils.helpers - INFO - Added to retraining queue: metal408.jpg
+2025-10-07 00:16:56,637 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:56,637 - src.utils.helpers - INFO - Frame 194/390
+2025-10-07 00:16:56,637 - src.utils.helpers - INFO - Image: metal410.jpg
+2025-10-07 00:16:56,638 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.8043)
+2025-10-07 00:16:56,638 - src.utils.helpers - INFO - Inference time: 6.92 ms
+2025-10-07 00:16:58,638 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:16:58,639 - src.utils.helpers - INFO - Frame 195/390
+2025-10-07 00:16:58,639 - src.utils.helpers - INFO - Image: metal51.jpg
+2025-10-07 00:16:58,639 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.8307)
+2025-10-07 00:16:58,639 - src.utils.helpers - INFO - Inference time: 7.12 ms
+2025-10-07 00:17:00,643 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:00,643 - src.utils.helpers - INFO - Frame 196/390
+2025-10-07 00:17:00,643 - src.utils.helpers - INFO - Image: metal52.jpg
+2025-10-07 00:17:00,644 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9952)
+2025-10-07 00:17:00,644 - src.utils.helpers - INFO - Inference time: 10.48 ms
+2025-10-07 00:17:02,652 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:02,653 - src.utils.helpers - INFO - Frame 197/390
+2025-10-07 00:17:02,653 - src.utils.helpers - INFO - Image: metal53.jpg
+2025-10-07 00:17:02,653 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9565)
+2025-10-07 00:17:02,653 - src.utils.helpers - INFO - Inference time: 19.46 ms
+2025-10-07 00:17:04,659 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:04,660 - src.utils.helpers - INFO - Frame 198/390
+2025-10-07 00:17:04,660 - src.utils.helpers - INFO - Image: metal59.jpg
+2025-10-07 00:17:04,660 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.4352)
+2025-10-07 00:17:04,660 - src.utils.helpers - INFO - Inference time: 26.93 ms
+2025-10-07 00:17:04,662 - src.utils.helpers - INFO - Added to retraining queue: metal59.jpg
+2025-10-07 00:17:06,674 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:06,674 - src.utils.helpers - INFO - Frame 199/390
+2025-10-07 00:17:06,674 - src.utils.helpers - INFO - Image: metal80.jpg
+2025-10-07 00:17:06,675 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.4905)
+2025-10-07 00:17:06,675 - src.utils.helpers - INFO - Inference time: 39.80 ms
+2025-10-07 00:17:06,677 - src.utils.helpers - INFO - Added to retraining queue: metal80.jpg
+2025-10-07 00:17:08,645 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:08,645 - src.utils.helpers - INFO - Frame 200/390
+2025-10-07 00:17:08,645 - src.utils.helpers - INFO - Image: metal92.jpg
+2025-10-07 00:17:08,645 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9623)
+2025-10-07 00:17:08,646 - src.utils.helpers - INFO - Inference time: 11.95 ms
+2025-10-07 00:17:10,646 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:10,646 - src.utils.helpers - INFO - Frame 201/390
+2025-10-07 00:17:10,647 - src.utils.helpers - INFO - Image: metal95.jpg
+2025-10-07 00:17:10,647 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.4506)
+2025-10-07 00:17:10,647 - src.utils.helpers - INFO - Inference time: 12.13 ms
+2025-10-07 00:17:10,649 - src.utils.helpers - INFO - Added to retraining queue: metal95.jpg
+2025-10-07 00:17:12,656 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:12,656 - src.utils.helpers - INFO - Frame 202/390
+2025-10-07 00:17:12,656 - src.utils.helpers - INFO - Image: metal96.jpg
+2025-10-07 00:17:12,657 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.8402)
+2025-10-07 00:17:12,657 - src.utils.helpers - INFO - Inference time: 20.22 ms
+2025-10-07 00:17:14,647 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:14,647 - src.utils.helpers - INFO - Frame 203/390
+2025-10-07 00:17:14,647 - src.utils.helpers - INFO - Image: dummy_002.jpg
+2025-10-07 00:17:14,648 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.3335)
+2025-10-07 00:17:14,648 - src.utils.helpers - INFO - Inference time: 11.41 ms
+2025-10-07 00:17:14,650 - src.utils.helpers - INFO - Added to retraining queue: dummy_002.jpg
+2025-10-07 00:17:16,649 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:16,649 - src.utils.helpers - INFO - Frame 204/390
+2025-10-07 00:17:16,650 - src.utils.helpers - INFO - Image: dummy_006.jpg
+2025-10-07 00:17:16,650 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.4768)
+2025-10-07 00:17:16,650 - src.utils.helpers - INFO - Inference time: 11.46 ms
+2025-10-07 00:17:16,653 - src.utils.helpers - INFO - Added to retraining queue: dummy_006.jpg
+2025-10-07 00:17:18,648 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:18,649 - src.utils.helpers - INFO - Frame 205/390
+2025-10-07 00:17:18,649 - src.utils.helpers - INFO - Image: paper1.jpg
+2025-10-07 00:17:18,649 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.8961)
+2025-10-07 00:17:18,649 - src.utils.helpers - INFO - Inference time: 11.58 ms
+2025-10-07 00:17:20,648 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:20,648 - src.utils.helpers - INFO - Frame 206/390
+2025-10-07 00:17:20,648 - src.utils.helpers - INFO - Image: paper111.jpg
+2025-10-07 00:17:20,648 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9273)
+2025-10-07 00:17:20,648 - src.utils.helpers - INFO - Inference time: 11.41 ms
+2025-10-07 00:17:22,649 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:22,649 - src.utils.helpers - INFO - Frame 207/390
+2025-10-07 00:17:22,650 - src.utils.helpers - INFO - Image: paper116.jpg
+2025-10-07 00:17:22,650 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9864)
+2025-10-07 00:17:22,650 - src.utils.helpers - INFO - Inference time: 10.87 ms
+2025-10-07 00:17:24,649 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:24,649 - src.utils.helpers - INFO - Frame 208/390
+2025-10-07 00:17:24,649 - src.utils.helpers - INFO - Image: paper117.jpg
+2025-10-07 00:17:24,649 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.6733)
+2025-10-07 00:17:24,650 - src.utils.helpers - INFO - Inference time: 10.61 ms
+2025-10-07 00:17:24,652 - src.utils.helpers - INFO - Added to retraining queue: paper117.jpg
+2025-10-07 00:17:26,654 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:26,654 - src.utils.helpers - INFO - Frame 209/390
+2025-10-07 00:17:26,655 - src.utils.helpers - INFO - Image: paper125.jpg
+2025-10-07 00:17:26,655 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9939)
+2025-10-07 00:17:26,655 - src.utils.helpers - INFO - Inference time: 16.09 ms
+2025-10-07 00:17:28,649 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:28,650 - src.utils.helpers - INFO - Frame 210/390
+2025-10-07 00:17:28,650 - src.utils.helpers - INFO - Image: paper14.jpg
+2025-10-07 00:17:28,650 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9992)
+2025-10-07 00:17:28,651 - src.utils.helpers - INFO - Inference time: 10.11 ms
+2025-10-07 00:17:30,653 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:30,654 - src.utils.helpers - INFO - Frame 211/390
+2025-10-07 00:17:30,654 - src.utils.helpers - INFO - Image: paper147.jpg
+2025-10-07 00:17:30,654 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9961)
+2025-10-07 00:17:30,654 - src.utils.helpers - INFO - Inference time: 12.68 ms
+2025-10-07 00:17:32,654 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:32,654 - src.utils.helpers - INFO - Frame 212/390
+2025-10-07 00:17:32,654 - src.utils.helpers - INFO - Image: paper153.jpg
+2025-10-07 00:17:32,654 - src.utils.helpers - INFO - Predicted: paper (confidence: 1.0000)
+2025-10-07 00:17:32,655 - src.utils.helpers - INFO - Inference time: 11.59 ms
+2025-10-07 00:17:34,652 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:34,653 - src.utils.helpers - INFO - Frame 213/390
+2025-10-07 00:17:34,653 - src.utils.helpers - INFO - Image: paper155.jpg
+2025-10-07 00:17:34,653 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9664)
+2025-10-07 00:17:34,654 - src.utils.helpers - INFO - Inference time: 11.65 ms
+2025-10-07 00:17:36,651 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:36,651 - src.utils.helpers - INFO - Frame 214/390
+2025-10-07 00:17:36,651 - src.utils.helpers - INFO - Image: paper156.jpg
+2025-10-07 00:17:36,652 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9995)
+2025-10-07 00:17:36,652 - src.utils.helpers - INFO - Inference time: 10.21 ms
+2025-10-07 00:17:38,653 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:38,654 - src.utils.helpers - INFO - Frame 215/390
+2025-10-07 00:17:38,654 - src.utils.helpers - INFO - Image: paper159.jpg
+2025-10-07 00:17:38,654 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9723)
+2025-10-07 00:17:38,654 - src.utils.helpers - INFO - Inference time: 10.27 ms
+2025-10-07 00:17:40,655 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:40,655 - src.utils.helpers - INFO - Frame 216/390
+2025-10-07 00:17:40,655 - src.utils.helpers - INFO - Image: paper16.jpg
+2025-10-07 00:17:40,656 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9990)
+2025-10-07 00:17:40,656 - src.utils.helpers - INFO - Inference time: 12.16 ms
+2025-10-07 00:17:42,655 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:42,655 - src.utils.helpers - INFO - Frame 217/390
+2025-10-07 00:17:42,655 - src.utils.helpers - INFO - Image: paper160.jpg
+2025-10-07 00:17:42,656 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.8069)
+2025-10-07 00:17:42,656 - src.utils.helpers - INFO - Inference time: 9.55 ms
+2025-10-07 00:17:44,653 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:44,653 - src.utils.helpers - INFO - Frame 218/390
+2025-10-07 00:17:44,654 - src.utils.helpers - INFO - Image: paper163.jpg
+2025-10-07 00:17:44,654 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9860)
+2025-10-07 00:17:44,654 - src.utils.helpers - INFO - Inference time: 9.22 ms
+2025-10-07 00:17:46,656 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:46,656 - src.utils.helpers - INFO - Frame 219/390
+2025-10-07 00:17:46,656 - src.utils.helpers - INFO - Image: paper164.jpg
+2025-10-07 00:17:46,657 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.8498)
+2025-10-07 00:17:46,657 - src.utils.helpers - INFO - Inference time: 9.54 ms
+2025-10-07 00:17:48,656 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:48,656 - src.utils.helpers - INFO - Frame 220/390
+2025-10-07 00:17:48,657 - src.utils.helpers - INFO - Image: paper168.jpg
+2025-10-07 00:17:48,657 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.6072)
+2025-10-07 00:17:48,657 - src.utils.helpers - INFO - Inference time: 10.57 ms
+2025-10-07 00:17:48,660 - src.utils.helpers - INFO - Added to retraining queue: paper168.jpg
+2025-10-07 00:17:50,660 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:50,661 - src.utils.helpers - INFO - Frame 221/390
+2025-10-07 00:17:50,661 - src.utils.helpers - INFO - Image: paper181.jpg
+2025-10-07 00:17:50,661 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9909)
+2025-10-07 00:17:50,661 - src.utils.helpers - INFO - Inference time: 13.57 ms
+2025-10-07 00:17:52,654 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:52,654 - src.utils.helpers - INFO - Frame 222/390
+2025-10-07 00:17:52,655 - src.utils.helpers - INFO - Image: paper184.jpg
+2025-10-07 00:17:52,655 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.5795)
+2025-10-07 00:17:52,655 - src.utils.helpers - INFO - Inference time: 7.80 ms
+2025-10-07 00:17:52,658 - src.utils.helpers - INFO - Added to retraining queue: paper184.jpg
+2025-10-07 00:17:54,656 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:54,657 - src.utils.helpers - INFO - Frame 223/390
+2025-10-07 00:17:54,657 - src.utils.helpers - INFO - Image: paper189.jpg
+2025-10-07 00:17:54,657 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9986)
+2025-10-07 00:17:54,657 - src.utils.helpers - INFO - Inference time: 9.64 ms
+2025-10-07 00:17:56,659 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:56,659 - src.utils.helpers - INFO - Frame 224/390
+2025-10-07 00:17:56,659 - src.utils.helpers - INFO - Image: paper19.jpg
+2025-10-07 00:17:56,660 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.7861)
+2025-10-07 00:17:56,660 - src.utils.helpers - INFO - Inference time: 12.22 ms
+2025-10-07 00:17:58,659 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:17:58,659 - src.utils.helpers - INFO - Frame 225/390
+2025-10-07 00:17:58,659 - src.utils.helpers - INFO - Image: paper197.jpg
+2025-10-07 00:17:58,659 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.5420)
+2025-10-07 00:17:58,660 - src.utils.helpers - INFO - Inference time: 9.84 ms
+2025-10-07 00:17:58,663 - src.utils.helpers - INFO - Added to retraining queue: paper197.jpg
+2025-10-07 00:18:00,660 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:00,660 - src.utils.helpers - INFO - Frame 226/390
+2025-10-07 00:18:00,660 - src.utils.helpers - INFO - Image: paper209.jpg
+2025-10-07 00:18:00,660 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9957)
+2025-10-07 00:18:00,661 - src.utils.helpers - INFO - Inference time: 11.58 ms
+2025-10-07 00:18:02,656 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:02,657 - src.utils.helpers - INFO - Frame 227/390
+2025-10-07 00:18:02,657 - src.utils.helpers - INFO - Image: paper211.jpg
+2025-10-07 00:18:02,657 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9998)
+2025-10-07 00:18:02,657 - src.utils.helpers - INFO - Inference time: 9.00 ms
+2025-10-07 00:18:04,657 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:04,657 - src.utils.helpers - INFO - Frame 228/390
+2025-10-07 00:18:04,657 - src.utils.helpers - INFO - Image: paper213.jpg
+2025-10-07 00:18:04,657 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9973)
+2025-10-07 00:18:04,658 - src.utils.helpers - INFO - Inference time: 8.89 ms
+2025-10-07 00:18:06,660 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:06,661 - src.utils.helpers - INFO - Frame 229/390
+2025-10-07 00:18:06,661 - src.utils.helpers - INFO - Image: paper23.jpg
+2025-10-07 00:18:06,661 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.5446)
+2025-10-07 00:18:06,661 - src.utils.helpers - INFO - Inference time: 11.66 ms
+2025-10-07 00:18:06,664 - src.utils.helpers - INFO - Added to retraining queue: paper23.jpg
+2025-10-07 00:18:08,657 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:08,657 - src.utils.helpers - INFO - Frame 230/390
+2025-10-07 00:18:08,657 - src.utils.helpers - INFO - Image: paper237.jpg
+2025-10-07 00:18:08,657 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.6994)
+2025-10-07 00:18:08,658 - src.utils.helpers - INFO - Inference time: 8.18 ms
+2025-10-07 00:18:08,660 - src.utils.helpers - INFO - Added to retraining queue: paper237.jpg
+2025-10-07 00:18:10,661 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:10,662 - src.utils.helpers - INFO - Frame 231/390
+2025-10-07 00:18:10,662 - src.utils.helpers - INFO - Image: paper239.jpg
+2025-10-07 00:18:10,662 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9901)
+2025-10-07 00:18:10,662 - src.utils.helpers - INFO - Inference time: 10.80 ms
+2025-10-07 00:18:12,662 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:12,662 - src.utils.helpers - INFO - Frame 232/390
+2025-10-07 00:18:12,662 - src.utils.helpers - INFO - Image: paper249.jpg
+2025-10-07 00:18:12,663 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9989)
+2025-10-07 00:18:12,663 - src.utils.helpers - INFO - Inference time: 11.02 ms
+2025-10-07 00:18:14,661 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:14,662 - src.utils.helpers - INFO - Frame 233/390
+2025-10-07 00:18:14,662 - src.utils.helpers - INFO - Image: paper253.jpg
+2025-10-07 00:18:14,662 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.5708)
+2025-10-07 00:18:14,662 - src.utils.helpers - INFO - Inference time: 11.49 ms
+2025-10-07 00:18:14,665 - src.utils.helpers - INFO - Added to retraining queue: paper253.jpg
+2025-10-07 00:18:16,662 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:16,663 - src.utils.helpers - INFO - Frame 234/390
+2025-10-07 00:18:16,663 - src.utils.helpers - INFO - Image: paper254.jpg
+2025-10-07 00:18:16,663 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.8573)
+2025-10-07 00:18:16,663 - src.utils.helpers - INFO - Inference time: 11.20 ms
+2025-10-07 00:18:18,662 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:18,662 - src.utils.helpers - INFO - Frame 235/390
+2025-10-07 00:18:18,662 - src.utils.helpers - INFO - Image: paper256.jpg
+2025-10-07 00:18:18,663 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.8025)
+2025-10-07 00:18:18,663 - src.utils.helpers - INFO - Inference time: 11.61 ms
+2025-10-07 00:18:20,662 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:20,662 - src.utils.helpers - INFO - Frame 236/390
+2025-10-07 00:18:20,663 - src.utils.helpers - INFO - Image: paper263.jpg
+2025-10-07 00:18:20,663 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.8516)
+2025-10-07 00:18:20,663 - src.utils.helpers - INFO - Inference time: 10.03 ms
+2025-10-07 00:18:22,668 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:22,668 - src.utils.helpers - INFO - Frame 237/390
+2025-10-07 00:18:22,668 - src.utils.helpers - INFO - Image: paper266.jpg
+2025-10-07 00:18:22,669 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9994)
+2025-10-07 00:18:22,669 - src.utils.helpers - INFO - Inference time: 13.65 ms
+2025-10-07 00:18:24,668 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:24,669 - src.utils.helpers - INFO - Frame 238/390
+2025-10-07 00:18:24,669 - src.utils.helpers - INFO - Image: paper279.jpg
+2025-10-07 00:18:24,669 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9944)
+2025-10-07 00:18:24,669 - src.utils.helpers - INFO - Inference time: 14.47 ms
+2025-10-07 00:18:26,666 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:26,667 - src.utils.helpers - INFO - Frame 239/390
+2025-10-07 00:18:26,668 - src.utils.helpers - INFO - Image: paper28.jpg
+2025-10-07 00:18:26,668 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.8104)
+2025-10-07 00:18:26,668 - src.utils.helpers - INFO - Inference time: 12.13 ms
+2025-10-07 00:18:28,688 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:28,688 - src.utils.helpers - INFO - Frame 240/390
+2025-10-07 00:18:28,688 - src.utils.helpers - INFO - Image: paper281.jpg
+2025-10-07 00:18:28,689 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9633)
+2025-10-07 00:18:28,689 - src.utils.helpers - INFO - Inference time: 34.11 ms
+2025-10-07 00:18:30,675 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:30,675 - src.utils.helpers - INFO - Frame 241/390
+2025-10-07 00:18:30,675 - src.utils.helpers - INFO - Image: paper287.jpg
+2025-10-07 00:18:30,675 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.7211)
+2025-10-07 00:18:30,675 - src.utils.helpers - INFO - Inference time: 20.72 ms
+2025-10-07 00:18:32,660 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:32,660 - src.utils.helpers - INFO - Frame 242/390
+2025-10-07 00:18:32,661 - src.utils.helpers - INFO - Image: paper300.jpg
+2025-10-07 00:18:32,661 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.7044)
+2025-10-07 00:18:32,662 - src.utils.helpers - INFO - Inference time: 6.22 ms
+2025-10-07 00:18:34,665 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:34,665 - src.utils.helpers - INFO - Frame 243/390
+2025-10-07 00:18:34,666 - src.utils.helpers - INFO - Image: paper301.jpg
+2025-10-07 00:18:34,666 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9982)
+2025-10-07 00:18:34,666 - src.utils.helpers - INFO - Inference time: 10.07 ms
+2025-10-07 00:18:36,668 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:36,668 - src.utils.helpers - INFO - Frame 244/390
+2025-10-07 00:18:36,668 - src.utils.helpers - INFO - Image: paper304.jpg
+2025-10-07 00:18:36,669 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9819)
+2025-10-07 00:18:36,669 - src.utils.helpers - INFO - Inference time: 11.84 ms
+2025-10-07 00:18:38,680 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:38,681 - src.utils.helpers - INFO - Frame 245/390
+2025-10-07 00:18:38,681 - src.utils.helpers - INFO - Image: paper310.jpg
+2025-10-07 00:18:38,681 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.5712)
+2025-10-07 00:18:38,681 - src.utils.helpers - INFO - Inference time: 23.40 ms
+2025-10-07 00:18:38,684 - src.utils.helpers - INFO - Added to retraining queue: paper310.jpg
+2025-10-07 00:18:40,666 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:40,667 - src.utils.helpers - INFO - Frame 246/390
+2025-10-07 00:18:40,667 - src.utils.helpers - INFO - Image: paper313.jpg
+2025-10-07 00:18:40,667 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.8578)
+2025-10-07 00:18:40,667 - src.utils.helpers - INFO - Inference time: 9.24 ms
+2025-10-07 00:18:42,680 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:42,680 - src.utils.helpers - INFO - Frame 247/390
+2025-10-07 00:18:42,681 - src.utils.helpers - INFO - Image: paper321.jpg
+2025-10-07 00:18:42,681 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9998)
+2025-10-07 00:18:42,681 - src.utils.helpers - INFO - Inference time: 23.02 ms
+2025-10-07 00:18:44,677 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:44,678 - src.utils.helpers - INFO - Frame 248/390
+2025-10-07 00:18:44,678 - src.utils.helpers - INFO - Image: paper338.jpg
+2025-10-07 00:18:44,678 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9997)
+2025-10-07 00:18:44,679 - src.utils.helpers - INFO - Inference time: 20.06 ms
+2025-10-07 00:18:46,696 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:46,696 - src.utils.helpers - INFO - Frame 249/390
+2025-10-07 00:18:46,696 - src.utils.helpers - INFO - Image: paper346.jpg
+2025-10-07 00:18:46,696 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9563)
+2025-10-07 00:18:46,697 - src.utils.helpers - INFO - Inference time: 38.30 ms
+2025-10-07 00:18:48,667 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:48,667 - src.utils.helpers - INFO - Frame 250/390
+2025-10-07 00:18:48,667 - src.utils.helpers - INFO - Image: paper348.jpg
+2025-10-07 00:18:48,668 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9813)
+2025-10-07 00:18:48,668 - src.utils.helpers - INFO - Inference time: 8.61 ms
+2025-10-07 00:18:50,669 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:50,669 - src.utils.helpers - INFO - Frame 251/390
+2025-10-07 00:18:50,670 - src.utils.helpers - INFO - Image: paper364.jpg
+2025-10-07 00:18:50,670 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.5625)
+2025-10-07 00:18:50,670 - src.utils.helpers - INFO - Inference time: 10.83 ms
+2025-10-07 00:18:50,672 - src.utils.helpers - INFO - Added to retraining queue: paper364.jpg
+2025-10-07 00:18:52,665 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:52,666 - src.utils.helpers - INFO - Frame 252/390
+2025-10-07 00:18:52,666 - src.utils.helpers - INFO - Image: paper377.jpg
+2025-10-07 00:18:52,666 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9962)
+2025-10-07 00:18:52,667 - src.utils.helpers - INFO - Inference time: 6.84 ms
+2025-10-07 00:18:54,665 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:54,665 - src.utils.helpers - INFO - Frame 253/390
+2025-10-07 00:18:54,665 - src.utils.helpers - INFO - Image: paper389.jpg
+2025-10-07 00:18:54,666 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9994)
+2025-10-07 00:18:54,666 - src.utils.helpers - INFO - Inference time: 6.40 ms
+2025-10-07 00:18:56,676 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:56,676 - src.utils.helpers - INFO - Frame 254/390
+2025-10-07 00:18:56,677 - src.utils.helpers - INFO - Image: paper405.jpg
+2025-10-07 00:18:56,677 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.6671)
+2025-10-07 00:18:56,677 - src.utils.helpers - INFO - Inference time: 17.05 ms
+2025-10-07 00:18:56,680 - src.utils.helpers - INFO - Added to retraining queue: paper405.jpg
+2025-10-07 00:18:58,674 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:18:58,674 - src.utils.helpers - INFO - Frame 255/390
+2025-10-07 00:18:58,674 - src.utils.helpers - INFO - Image: paper415.jpg
+2025-10-07 00:18:58,675 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9979)
+2025-10-07 00:18:58,675 - src.utils.helpers - INFO - Inference time: 12.92 ms
+2025-10-07 00:19:00,672 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:00,673 - src.utils.helpers - INFO - Frame 256/390
+2025-10-07 00:19:00,673 - src.utils.helpers - INFO - Image: paper417.jpg
+2025-10-07 00:19:00,673 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.8264)
+2025-10-07 00:19:00,673 - src.utils.helpers - INFO - Inference time: 10.03 ms
+2025-10-07 00:19:02,698 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:02,699 - src.utils.helpers - INFO - Frame 257/390
+2025-10-07 00:19:02,699 - src.utils.helpers - INFO - Image: paper422.jpg
+2025-10-07 00:19:02,699 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9554)
+2025-10-07 00:19:02,700 - src.utils.helpers - INFO - Inference time: 37.18 ms
+2025-10-07 00:19:04,693 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:04,694 - src.utils.helpers - INFO - Frame 258/390
+2025-10-07 00:19:04,694 - src.utils.helpers - INFO - Image: paper423.jpg
+2025-10-07 00:19:04,694 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9823)
+2025-10-07 00:19:04,694 - src.utils.helpers - INFO - Inference time: 31.02 ms
+2025-10-07 00:19:06,689 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:06,690 - src.utils.helpers - INFO - Frame 259/390
+2025-10-07 00:19:06,690 - src.utils.helpers - INFO - Image: paper424.jpg
+2025-10-07 00:19:06,690 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9755)
+2025-10-07 00:19:06,690 - src.utils.helpers - INFO - Inference time: 25.82 ms
+2025-10-07 00:19:08,670 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:08,670 - src.utils.helpers - INFO - Frame 260/390
+2025-10-07 00:19:08,671 - src.utils.helpers - INFO - Image: paper427.jpg
+2025-10-07 00:19:08,671 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9965)
+2025-10-07 00:19:08,671 - src.utils.helpers - INFO - Inference time: 7.24 ms
+2025-10-07 00:19:10,670 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:10,670 - src.utils.helpers - INFO - Frame 261/390
+2025-10-07 00:19:10,671 - src.utils.helpers - INFO - Image: paper446.jpg
+2025-10-07 00:19:10,671 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.8684)
+2025-10-07 00:19:10,671 - src.utils.helpers - INFO - Inference time: 7.22 ms
+2025-10-07 00:19:12,671 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:12,671 - src.utils.helpers - INFO - Frame 262/390
+2025-10-07 00:19:12,671 - src.utils.helpers - INFO - Image: paper454.jpg
+2025-10-07 00:19:12,672 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.8731)
+2025-10-07 00:19:12,672 - src.utils.helpers - INFO - Inference time: 7.93 ms
+2025-10-07 00:19:14,678 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:14,678 - src.utils.helpers - INFO - Frame 263/390
+2025-10-07 00:19:14,679 - src.utils.helpers - INFO - Image: paper470.jpg
+2025-10-07 00:19:14,679 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9946)
+2025-10-07 00:19:14,679 - src.utils.helpers - INFO - Inference time: 14.80 ms
+2025-10-07 00:19:16,676 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:16,677 - src.utils.helpers - INFO - Frame 264/390
+2025-10-07 00:19:16,677 - src.utils.helpers - INFO - Image: paper474.jpg
+2025-10-07 00:19:16,677 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9310)
+2025-10-07 00:19:16,677 - src.utils.helpers - INFO - Inference time: 11.63 ms
+2025-10-07 00:19:18,689 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:18,689 - src.utils.helpers - INFO - Frame 265/390
+2025-10-07 00:19:18,689 - src.utils.helpers - INFO - Image: paper48.jpg
+2025-10-07 00:19:18,689 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.6313)
+2025-10-07 00:19:18,690 - src.utils.helpers - INFO - Inference time: 23.72 ms
+2025-10-07 00:19:18,692 - src.utils.helpers - INFO - Added to retraining queue: paper48.jpg
+2025-10-07 00:19:20,684 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:20,684 - src.utils.helpers - INFO - Frame 266/390
+2025-10-07 00:19:20,684 - src.utils.helpers - INFO - Image: paper485.jpg
+2025-10-07 00:19:20,684 - src.utils.helpers - INFO - Predicted: paper (confidence: 1.0000)
+2025-10-07 00:19:20,685 - src.utils.helpers - INFO - Inference time: 18.80 ms
+2025-10-07 00:19:22,702 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:22,703 - src.utils.helpers - INFO - Frame 267/390
+2025-10-07 00:19:22,703 - src.utils.helpers - INFO - Image: paper49.jpg
+2025-10-07 00:19:22,703 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9987)
+2025-10-07 00:19:22,703 - src.utils.helpers - INFO - Inference time: 34.95 ms
+2025-10-07 00:19:24,680 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:24,681 - src.utils.helpers - INFO - Frame 268/390
+2025-10-07 00:19:24,681 - src.utils.helpers - INFO - Image: paper491.jpg
+2025-10-07 00:19:24,681 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.6405)
+2025-10-07 00:19:24,682 - src.utils.helpers - INFO - Inference time: 13.58 ms
+2025-10-07 00:19:24,684 - src.utils.helpers - INFO - Added to retraining queue: paper491.jpg
+2025-10-07 00:19:26,688 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:26,688 - src.utils.helpers - INFO - Frame 269/390
+2025-10-07 00:19:26,689 - src.utils.helpers - INFO - Image: paper498.jpg
+2025-10-07 00:19:26,689 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9916)
+2025-10-07 00:19:26,689 - src.utils.helpers - INFO - Inference time: 21.16 ms
+2025-10-07 00:19:28,675 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:28,675 - src.utils.helpers - INFO - Frame 270/390
+2025-10-07 00:19:28,675 - src.utils.helpers - INFO - Image: paper501.jpg
+2025-10-07 00:19:28,675 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.7359)
+2025-10-07 00:19:28,676 - src.utils.helpers - INFO - Inference time: 7.17 ms
+2025-10-07 00:19:30,674 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:30,675 - src.utils.helpers - INFO - Frame 271/390
+2025-10-07 00:19:30,675 - src.utils.helpers - INFO - Image: paper506.jpg
+2025-10-07 00:19:30,675 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9678)
+2025-10-07 00:19:30,676 - src.utils.helpers - INFO - Inference time: 7.13 ms
+2025-10-07 00:19:32,694 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:32,695 - src.utils.helpers - INFO - Frame 272/390
+2025-10-07 00:19:32,695 - src.utils.helpers - INFO - Image: paper507.jpg
+2025-10-07 00:19:32,695 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9971)
+2025-10-07 00:19:32,695 - src.utils.helpers - INFO - Inference time: 25.73 ms
+2025-10-07 00:19:34,675 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:34,675 - src.utils.helpers - INFO - Frame 273/390
+2025-10-07 00:19:34,676 - src.utils.helpers - INFO - Image: paper516.jpg
+2025-10-07 00:19:34,676 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9980)
+2025-10-07 00:19:34,676 - src.utils.helpers - INFO - Inference time: 6.88 ms
+2025-10-07 00:19:36,677 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:36,678 - src.utils.helpers - INFO - Frame 274/390
+2025-10-07 00:19:36,678 - src.utils.helpers - INFO - Image: paper534.jpg
+2025-10-07 00:19:36,678 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9790)
+2025-10-07 00:19:36,678 - src.utils.helpers - INFO - Inference time: 8.42 ms
+2025-10-07 00:19:38,676 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:38,676 - src.utils.helpers - INFO - Frame 275/390
+2025-10-07 00:19:38,676 - src.utils.helpers - INFO - Image: paper549.jpg
+2025-10-07 00:19:38,676 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.7964)
+2025-10-07 00:19:38,677 - src.utils.helpers - INFO - Inference time: 6.36 ms
+2025-10-07 00:19:40,676 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:40,676 - src.utils.helpers - INFO - Frame 276/390
+2025-10-07 00:19:40,676 - src.utils.helpers - INFO - Image: paper557.jpg
+2025-10-07 00:19:40,676 - src.utils.helpers - INFO - Predicted: paper (confidence: 1.0000)
+2025-10-07 00:19:40,677 - src.utils.helpers - INFO - Inference time: 6.43 ms
+2025-10-07 00:19:42,679 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:42,679 - src.utils.helpers - INFO - Frame 277/390
+2025-10-07 00:19:42,679 - src.utils.helpers - INFO - Image: paper575.jpg
+2025-10-07 00:19:42,680 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9823)
+2025-10-07 00:19:42,680 - src.utils.helpers - INFO - Inference time: 8.64 ms
+2025-10-07 00:19:44,678 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:44,678 - src.utils.helpers - INFO - Frame 278/390
+2025-10-07 00:19:44,678 - src.utils.helpers - INFO - Image: paper576.jpg
+2025-10-07 00:19:44,678 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.8865)
+2025-10-07 00:19:44,679 - src.utils.helpers - INFO - Inference time: 6.82 ms
+2025-10-07 00:19:46,684 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:46,685 - src.utils.helpers - INFO - Frame 279/390
+2025-10-07 00:19:46,685 - src.utils.helpers - INFO - Image: paper577.jpg
+2025-10-07 00:19:46,685 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.8452)
+2025-10-07 00:19:46,685 - src.utils.helpers - INFO - Inference time: 11.59 ms
+2025-10-07 00:19:48,683 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:48,684 - src.utils.helpers - INFO - Frame 280/390
+2025-10-07 00:19:48,684 - src.utils.helpers - INFO - Image: paper59.jpg
+2025-10-07 00:19:48,684 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9973)
+2025-10-07 00:19:48,684 - src.utils.helpers - INFO - Inference time: 8.75 ms
+2025-10-07 00:19:50,684 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:50,684 - src.utils.helpers - INFO - Frame 281/390
+2025-10-07 00:19:50,685 - src.utils.helpers - INFO - Image: paper593.jpg
+2025-10-07 00:19:50,685 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9960)
+2025-10-07 00:19:50,685 - src.utils.helpers - INFO - Inference time: 11.16 ms
+2025-10-07 00:19:52,683 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:52,683 - src.utils.helpers - INFO - Frame 282/390
+2025-10-07 00:19:52,684 - src.utils.helpers - INFO - Image: paper594.jpg
+2025-10-07 00:19:52,684 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9638)
+2025-10-07 00:19:52,684 - src.utils.helpers - INFO - Inference time: 8.74 ms
+2025-10-07 00:19:54,683 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:54,683 - src.utils.helpers - INFO - Frame 283/390
+2025-10-07 00:19:54,683 - src.utils.helpers - INFO - Image: paper63.jpg
+2025-10-07 00:19:54,684 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9996)
+2025-10-07 00:19:54,684 - src.utils.helpers - INFO - Inference time: 8.92 ms
+2025-10-07 00:19:56,688 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:56,688 - src.utils.helpers - INFO - Frame 284/390
+2025-10-07 00:19:56,688 - src.utils.helpers - INFO - Image: paper67.jpg
+2025-10-07 00:19:56,689 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.8627)
+2025-10-07 00:19:56,689 - src.utils.helpers - INFO - Inference time: 11.01 ms
+2025-10-07 00:19:58,685 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:19:58,685 - src.utils.helpers - INFO - Frame 285/390
+2025-10-07 00:19:58,686 - src.utils.helpers - INFO - Image: paper69.jpg
+2025-10-07 00:19:58,686 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.8925)
+2025-10-07 00:19:58,686 - src.utils.helpers - INFO - Inference time: 10.32 ms
+2025-10-07 00:20:00,685 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:00,685 - src.utils.helpers - INFO - Frame 286/390
+2025-10-07 00:20:00,685 - src.utils.helpers - INFO - Image: paper72.jpg
+2025-10-07 00:20:00,686 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.8117)
+2025-10-07 00:20:00,686 - src.utils.helpers - INFO - Inference time: 9.32 ms
+2025-10-07 00:20:02,686 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:02,688 - src.utils.helpers - INFO - Frame 287/390
+2025-10-07 00:20:02,688 - src.utils.helpers - INFO - Image: paper77.jpg
+2025-10-07 00:20:02,688 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9026)
+2025-10-07 00:20:02,688 - src.utils.helpers - INFO - Inference time: 9.80 ms
+2025-10-07 00:20:04,687 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:04,687 - src.utils.helpers - INFO - Frame 288/390
+2025-10-07 00:20:04,687 - src.utils.helpers - INFO - Image: paper88.jpg
+2025-10-07 00:20:04,687 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9832)
+2025-10-07 00:20:04,688 - src.utils.helpers - INFO - Inference time: 10.19 ms
+2025-10-07 00:20:06,688 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:06,688 - src.utils.helpers - INFO - Frame 289/390
+2025-10-07 00:20:06,689 - src.utils.helpers - INFO - Image: paper89.jpg
+2025-10-07 00:20:06,689 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9075)
+2025-10-07 00:20:06,689 - src.utils.helpers - INFO - Inference time: 11.22 ms
+2025-10-07 00:20:08,689 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:08,690 - src.utils.helpers - INFO - Frame 290/390
+2025-10-07 00:20:08,690 - src.utils.helpers - INFO - Image: paper91.jpg
+2025-10-07 00:20:08,690 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9997)
+2025-10-07 00:20:08,690 - src.utils.helpers - INFO - Inference time: 11.80 ms
+2025-10-07 00:20:10,687 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:10,687 - src.utils.helpers - INFO - Frame 291/390
+2025-10-07 00:20:10,688 - src.utils.helpers - INFO - Image: paper95.jpg
+2025-10-07 00:20:10,688 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9858)
+2025-10-07 00:20:10,688 - src.utils.helpers - INFO - Inference time: 7.69 ms
+2025-10-07 00:20:12,687 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:12,688 - src.utils.helpers - INFO - Frame 292/390
+2025-10-07 00:20:12,688 - src.utils.helpers - INFO - Image: paper96.jpg
+2025-10-07 00:20:12,688 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9997)
+2025-10-07 00:20:12,688 - src.utils.helpers - INFO - Inference time: 9.47 ms
+2025-10-07 00:20:14,687 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:14,688 - src.utils.helpers - INFO - Frame 293/390
+2025-10-07 00:20:14,688 - src.utils.helpers - INFO - Image: paper98.jpg
+2025-10-07 00:20:14,688 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9959)
+2025-10-07 00:20:14,688 - src.utils.helpers - INFO - Inference time: 9.19 ms
+2025-10-07 00:20:16,690 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:16,691 - src.utils.helpers - INFO - Frame 294/390
+2025-10-07 00:20:16,691 - src.utils.helpers - INFO - Image: dummy_000.jpg
+2025-10-07 00:20:16,691 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.3137)
+2025-10-07 00:20:16,691 - src.utils.helpers - INFO - Inference time: 10.92 ms
+2025-10-07 00:20:16,693 - src.utils.helpers - INFO - Added to retraining queue: dummy_000.jpg
+2025-10-07 00:20:18,688 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:18,689 - src.utils.helpers - INFO - Frame 295/390
+2025-10-07 00:20:18,689 - src.utils.helpers - INFO - Image: dummy_009.jpg
+2025-10-07 00:20:18,689 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.3093)
+2025-10-07 00:20:18,689 - src.utils.helpers - INFO - Inference time: 8.74 ms
+2025-10-07 00:20:18,692 - src.utils.helpers - INFO - Added to retraining queue: dummy_009.jpg
+2025-10-07 00:20:20,690 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:20,691 - src.utils.helpers - INFO - Frame 296/390
+2025-10-07 00:20:20,691 - src.utils.helpers - INFO - Image: plastic10.jpg
+2025-10-07 00:20:20,691 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.6437)
+2025-10-07 00:20:20,692 - src.utils.helpers - INFO - Inference time: 8.13 ms
+2025-10-07 00:20:20,694 - src.utils.helpers - INFO - Added to retraining queue: plastic10.jpg
+2025-10-07 00:20:22,689 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:22,689 - src.utils.helpers - INFO - Frame 297/390
+2025-10-07 00:20:22,690 - src.utils.helpers - INFO - Image: plastic106.jpg
+2025-10-07 00:20:22,690 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9999)
+2025-10-07 00:20:22,690 - src.utils.helpers - INFO - Inference time: 8.40 ms
+2025-10-07 00:20:24,692 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:24,692 - src.utils.helpers - INFO - Frame 298/390
+2025-10-07 00:20:24,692 - src.utils.helpers - INFO - Image: plastic117.jpg
+2025-10-07 00:20:24,692 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.4049)
+2025-10-07 00:20:24,692 - src.utils.helpers - INFO - Inference time: 10.59 ms
+2025-10-07 00:20:24,695 - src.utils.helpers - INFO - Added to retraining queue: plastic117.jpg
+2025-10-07 00:20:26,689 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:26,689 - src.utils.helpers - INFO - Frame 299/390
+2025-10-07 00:20:26,689 - src.utils.helpers - INFO - Image: plastic12.jpg
+2025-10-07 00:20:26,690 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9158)
+2025-10-07 00:20:26,690 - src.utils.helpers - INFO - Inference time: 7.99 ms
+2025-10-07 00:20:28,694 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:28,694 - src.utils.helpers - INFO - Frame 300/390
+2025-10-07 00:20:28,694 - src.utils.helpers - INFO - Image: plastic125.jpg
+2025-10-07 00:20:28,695 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.7764)
+2025-10-07 00:20:28,695 - src.utils.helpers - INFO - Inference time: 11.35 ms
+2025-10-07 00:20:30,693 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:30,694 - src.utils.helpers - INFO - Frame 301/390
+2025-10-07 00:20:30,694 - src.utils.helpers - INFO - Image: plastic14.jpg
+2025-10-07 00:20:30,694 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9938)
+2025-10-07 00:20:30,694 - src.utils.helpers - INFO - Inference time: 11.27 ms
+2025-10-07 00:20:32,690 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:32,691 - src.utils.helpers - INFO - Frame 302/390
+2025-10-07 00:20:32,691 - src.utils.helpers - INFO - Image: plastic147.jpg
+2025-10-07 00:20:32,691 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.8753)
+2025-10-07 00:20:32,691 - src.utils.helpers - INFO - Inference time: 8.17 ms
+2025-10-07 00:20:34,694 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:34,695 - src.utils.helpers - INFO - Frame 303/390
+2025-10-07 00:20:34,695 - src.utils.helpers - INFO - Image: plastic151.jpg
+2025-10-07 00:20:34,695 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.8164)
+2025-10-07 00:20:34,695 - src.utils.helpers - INFO - Inference time: 11.25 ms
+2025-10-07 00:20:36,695 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:36,695 - src.utils.helpers - INFO - Frame 304/390
+2025-10-07 00:20:36,695 - src.utils.helpers - INFO - Image: plastic153.jpg
+2025-10-07 00:20:36,695 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.8844)
+2025-10-07 00:20:36,695 - src.utils.helpers - INFO - Inference time: 11.13 ms
+2025-10-07 00:20:38,697 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:38,697 - src.utils.helpers - INFO - Frame 305/390
+2025-10-07 00:20:38,697 - src.utils.helpers - INFO - Image: plastic155.jpg
+2025-10-07 00:20:38,697 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9664)
+2025-10-07 00:20:38,697 - src.utils.helpers - INFO - Inference time: 10.98 ms
+2025-10-07 00:20:40,696 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:40,697 - src.utils.helpers - INFO - Frame 306/390
+2025-10-07 00:20:40,697 - src.utils.helpers - INFO - Image: plastic156.jpg
+2025-10-07 00:20:40,697 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.7344)
+2025-10-07 00:20:40,697 - src.utils.helpers - INFO - Inference time: 11.29 ms
+2025-10-07 00:20:42,695 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:42,695 - src.utils.helpers - INFO - Frame 307/390
+2025-10-07 00:20:42,696 - src.utils.helpers - INFO - Image: plastic16.jpg
+2025-10-07 00:20:42,696 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.2685)
+2025-10-07 00:20:42,696 - src.utils.helpers - INFO - Inference time: 10.05 ms
+2025-10-07 00:20:42,699 - src.utils.helpers - INFO - Added to retraining queue: plastic16.jpg
+2025-10-07 00:20:44,696 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:44,697 - src.utils.helpers - INFO - Frame 308/390
+2025-10-07 00:20:44,697 - src.utils.helpers - INFO - Image: plastic160.jpg
+2025-10-07 00:20:44,697 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.8639)
+2025-10-07 00:20:44,697 - src.utils.helpers - INFO - Inference time: 11.52 ms
+2025-10-07 00:20:46,700 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:46,701 - src.utils.helpers - INFO - Frame 309/390
+2025-10-07 00:20:46,701 - src.utils.helpers - INFO - Image: plastic161.jpg
+2025-10-07 00:20:46,701 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.3617)
+2025-10-07 00:20:46,702 - src.utils.helpers - INFO - Inference time: 13.83 ms
+2025-10-07 00:20:46,705 - src.utils.helpers - INFO - Added to retraining queue: plastic161.jpg
+2025-10-07 00:20:48,704 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:48,704 - src.utils.helpers - INFO - Frame 310/390
+2025-10-07 00:20:48,704 - src.utils.helpers - INFO - Image: plastic164.jpg
+2025-10-07 00:20:48,705 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.3482)
+2025-10-07 00:20:48,705 - src.utils.helpers - INFO - Inference time: 16.66 ms
+2025-10-07 00:20:48,707 - src.utils.helpers - INFO - Added to retraining queue: plastic164.jpg
+2025-10-07 00:20:50,698 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:50,699 - src.utils.helpers - INFO - Frame 311/390
+2025-10-07 00:20:50,699 - src.utils.helpers - INFO - Image: plastic166.jpg
+2025-10-07 00:20:50,699 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.7907)
+2025-10-07 00:20:50,699 - src.utils.helpers - INFO - Inference time: 11.86 ms
+2025-10-07 00:20:52,699 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:52,700 - src.utils.helpers - INFO - Frame 312/390
+2025-10-07 00:20:52,700 - src.utils.helpers - INFO - Image: plastic171.jpg
+2025-10-07 00:20:52,700 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.6618)
+2025-10-07 00:20:52,700 - src.utils.helpers - INFO - Inference time: 11.05 ms
+2025-10-07 00:20:52,703 - src.utils.helpers - INFO - Added to retraining queue: plastic171.jpg
+2025-10-07 00:20:54,697 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:54,697 - src.utils.helpers - INFO - Frame 313/390
+2025-10-07 00:20:54,697 - src.utils.helpers - INFO - Image: plastic174.jpg
+2025-10-07 00:20:54,697 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.5537)
+2025-10-07 00:20:54,698 - src.utils.helpers - INFO - Inference time: 8.73 ms
+2025-10-07 00:20:54,700 - src.utils.helpers - INFO - Added to retraining queue: plastic174.jpg
+2025-10-07 00:20:56,698 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:56,699 - src.utils.helpers - INFO - Frame 314/390
+2025-10-07 00:20:56,699 - src.utils.helpers - INFO - Image: plastic184.jpg
+2025-10-07 00:20:56,699 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.8197)
+2025-10-07 00:20:56,699 - src.utils.helpers - INFO - Inference time: 10.28 ms
+2025-10-07 00:20:58,700 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:20:58,701 - src.utils.helpers - INFO - Frame 315/390
+2025-10-07 00:20:58,701 - src.utils.helpers - INFO - Image: plastic196.jpg
+2025-10-07 00:20:58,701 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.9666)
+2025-10-07 00:20:58,701 - src.utils.helpers - INFO - Inference time: 9.28 ms
+2025-10-07 00:21:00,698 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:00,699 - src.utils.helpers - INFO - Frame 316/390
+2025-10-07 00:21:00,699 - src.utils.helpers - INFO - Image: plastic208.jpg
+2025-10-07 00:21:00,699 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9230)
+2025-10-07 00:21:00,699 - src.utils.helpers - INFO - Inference time: 8.57 ms
+2025-10-07 00:21:02,701 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:02,701 - src.utils.helpers - INFO - Frame 317/390
+2025-10-07 00:21:02,701 - src.utils.helpers - INFO - Image: plastic209.jpg
+2025-10-07 00:21:02,701 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9659)
+2025-10-07 00:21:02,702 - src.utils.helpers - INFO - Inference time: 11.04 ms
+2025-10-07 00:21:04,698 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:04,698 - src.utils.helpers - INFO - Frame 318/390
+2025-10-07 00:21:04,699 - src.utils.helpers - INFO - Image: plastic216.jpg
+2025-10-07 00:21:04,699 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.9813)
+2025-10-07 00:21:04,699 - src.utils.helpers - INFO - Inference time: 8.32 ms
+2025-10-07 00:21:06,701 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:06,701 - src.utils.helpers - INFO - Frame 319/390
+2025-10-07 00:21:06,701 - src.utils.helpers - INFO - Image: plastic223.jpg
+2025-10-07 00:21:06,701 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.3721)
+2025-10-07 00:21:06,702 - src.utils.helpers - INFO - Inference time: 10.18 ms
+2025-10-07 00:21:06,704 - src.utils.helpers - INFO - Added to retraining queue: plastic223.jpg
+2025-10-07 00:21:08,700 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:08,700 - src.utils.helpers - INFO - Frame 320/390
+2025-10-07 00:21:08,701 - src.utils.helpers - INFO - Image: plastic228.jpg
+2025-10-07 00:21:08,701 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9898)
+2025-10-07 00:21:08,701 - src.utils.helpers - INFO - Inference time: 9.36 ms
+2025-10-07 00:21:10,701 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:10,702 - src.utils.helpers - INFO - Frame 321/390
+2025-10-07 00:21:10,702 - src.utils.helpers - INFO - Image: plastic229.jpg
+2025-10-07 00:21:10,702 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.7555)
+2025-10-07 00:21:10,702 - src.utils.helpers - INFO - Inference time: 9.95 ms
+2025-10-07 00:21:12,700 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:12,700 - src.utils.helpers - INFO - Frame 322/390
+2025-10-07 00:21:12,700 - src.utils.helpers - INFO - Image: plastic23.jpg
+2025-10-07 00:21:12,701 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.5627)
+2025-10-07 00:21:12,701 - src.utils.helpers - INFO - Inference time: 7.51 ms
+2025-10-07 00:21:12,704 - src.utils.helpers - INFO - Added to retraining queue: plastic23.jpg
+2025-10-07 00:21:14,703 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:14,704 - src.utils.helpers - INFO - Frame 323/390
+2025-10-07 00:21:14,704 - src.utils.helpers - INFO - Image: plastic254.jpg
+2025-10-07 00:21:14,704 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.7977)
+2025-10-07 00:21:14,704 - src.utils.helpers - INFO - Inference time: 10.84 ms
+2025-10-07 00:21:16,713 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:16,714 - src.utils.helpers - INFO - Frame 324/390
+2025-10-07 00:21:16,714 - src.utils.helpers - INFO - Image: plastic257.jpg
+2025-10-07 00:21:16,714 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9809)
+2025-10-07 00:21:16,714 - src.utils.helpers - INFO - Inference time: 19.96 ms
+2025-10-07 00:21:18,703 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:18,704 - src.utils.helpers - INFO - Frame 325/390
+2025-10-07 00:21:18,704 - src.utils.helpers - INFO - Image: plastic266.jpg
+2025-10-07 00:21:18,704 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.5309)
+2025-10-07 00:21:18,704 - src.utils.helpers - INFO - Inference time: 9.28 ms
+2025-10-07 00:21:18,707 - src.utils.helpers - INFO - Added to retraining queue: plastic266.jpg
+2025-10-07 00:21:20,712 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:20,713 - src.utils.helpers - INFO - Frame 326/390
+2025-10-07 00:21:20,713 - src.utils.helpers - INFO - Image: plastic293.jpg
+2025-10-07 00:21:20,713 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9087)
+2025-10-07 00:21:20,713 - src.utils.helpers - INFO - Inference time: 15.74 ms
+2025-10-07 00:21:22,706 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:22,707 - src.utils.helpers - INFO - Frame 327/390
+2025-10-07 00:21:22,707 - src.utils.helpers - INFO - Image: plastic296.jpg
+2025-10-07 00:21:22,707 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9998)
+2025-10-07 00:21:22,707 - src.utils.helpers - INFO - Inference time: 11.44 ms
+2025-10-07 00:21:24,703 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:24,704 - src.utils.helpers - INFO - Frame 328/390
+2025-10-07 00:21:24,704 - src.utils.helpers - INFO - Image: plastic304.jpg
+2025-10-07 00:21:24,704 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.8497)
+2025-10-07 00:21:24,705 - src.utils.helpers - INFO - Inference time: 7.83 ms
+2025-10-07 00:21:26,707 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:26,708 - src.utils.helpers - INFO - Frame 329/390
+2025-10-07 00:21:26,708 - src.utils.helpers - INFO - Image: plastic32.jpg
+2025-10-07 00:21:26,708 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9582)
+2025-10-07 00:21:26,708 - src.utils.helpers - INFO - Inference time: 10.48 ms
+2025-10-07 00:21:28,707 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:28,707 - src.utils.helpers - INFO - Frame 330/390
+2025-10-07 00:21:28,707 - src.utils.helpers - INFO - Image: plastic326.jpg
+2025-10-07 00:21:28,707 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9937)
+2025-10-07 00:21:28,708 - src.utils.helpers - INFO - Inference time: 8.80 ms
+2025-10-07 00:21:30,711 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:30,711 - src.utils.helpers - INFO - Frame 331/390
+2025-10-07 00:21:30,711 - src.utils.helpers - INFO - Image: plastic335.jpg
+2025-10-07 00:21:30,711 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9975)
+2025-10-07 00:21:30,712 - src.utils.helpers - INFO - Inference time: 13.03 ms
+2025-10-07 00:21:32,707 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:32,707 - src.utils.helpers - INFO - Frame 332/390
+2025-10-07 00:21:32,708 - src.utils.helpers - INFO - Image: plastic337.jpg
+2025-10-07 00:21:32,708 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9123)
+2025-10-07 00:21:32,708 - src.utils.helpers - INFO - Inference time: 9.90 ms
+2025-10-07 00:21:34,706 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:34,706 - src.utils.helpers - INFO - Frame 333/390
+2025-10-07 00:21:34,707 - src.utils.helpers - INFO - Image: plastic338.jpg
+2025-10-07 00:21:34,707 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.5305)
+2025-10-07 00:21:34,707 - src.utils.helpers - INFO - Inference time: 8.44 ms
+2025-10-07 00:21:34,710 - src.utils.helpers - INFO - Added to retraining queue: plastic338.jpg
+2025-10-07 00:21:36,709 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:36,709 - src.utils.helpers - INFO - Frame 334/390
+2025-10-07 00:21:36,709 - src.utils.helpers - INFO - Image: plastic348.jpg
+2025-10-07 00:21:36,709 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.6746)
+2025-10-07 00:21:36,710 - src.utils.helpers - INFO - Inference time: 10.58 ms
+2025-10-07 00:21:36,712 - src.utils.helpers - INFO - Added to retraining queue: plastic348.jpg
+2025-10-07 00:21:38,711 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:38,711 - src.utils.helpers - INFO - Frame 335/390
+2025-10-07 00:21:38,712 - src.utils.helpers - INFO - Image: plastic352.jpg
+2025-10-07 00:21:38,712 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.6127)
+2025-10-07 00:21:38,712 - src.utils.helpers - INFO - Inference time: 10.95 ms
+2025-10-07 00:21:38,714 - src.utils.helpers - INFO - Added to retraining queue: plastic352.jpg
+2025-10-07 00:21:40,712 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:40,713 - src.utils.helpers - INFO - Frame 336/390
+2025-10-07 00:21:40,713 - src.utils.helpers - INFO - Image: plastic36.jpg
+2025-10-07 00:21:40,713 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9367)
+2025-10-07 00:21:40,713 - src.utils.helpers - INFO - Inference time: 11.08 ms
+2025-10-07 00:21:42,713 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:42,714 - src.utils.helpers - INFO - Frame 337/390
+2025-10-07 00:21:42,714 - src.utils.helpers - INFO - Image: plastic365.jpg
+2025-10-07 00:21:42,714 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9895)
+2025-10-07 00:21:42,714 - src.utils.helpers - INFO - Inference time: 11.13 ms
+2025-10-07 00:21:44,715 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:44,715 - src.utils.helpers - INFO - Frame 338/390
+2025-10-07 00:21:44,715 - src.utils.helpers - INFO - Image: plastic371.jpg
+2025-10-07 00:21:44,716 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.3267)
+2025-10-07 00:21:44,716 - src.utils.helpers - INFO - Inference time: 12.80 ms
+2025-10-07 00:21:44,718 - src.utils.helpers - INFO - Added to retraining queue: plastic371.jpg
+2025-10-07 00:21:46,715 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:46,715 - src.utils.helpers - INFO - Frame 339/390
+2025-10-07 00:21:46,715 - src.utils.helpers - INFO - Image: plastic387.jpg
+2025-10-07 00:21:46,715 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.8906)
+2025-10-07 00:21:46,716 - src.utils.helpers - INFO - Inference time: 12.22 ms
+2025-10-07 00:21:48,714 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:48,715 - src.utils.helpers - INFO - Frame 340/390
+2025-10-07 00:21:48,715 - src.utils.helpers - INFO - Image: plastic393.jpg
+2025-10-07 00:21:48,715 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9993)
+2025-10-07 00:21:48,716 - src.utils.helpers - INFO - Inference time: 10.39 ms
+2025-10-07 00:21:50,716 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:50,716 - src.utils.helpers - INFO - Frame 341/390
+2025-10-07 00:21:50,716 - src.utils.helpers - INFO - Image: plastic401.jpg
+2025-10-07 00:21:50,717 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9850)
+2025-10-07 00:21:50,717 - src.utils.helpers - INFO - Inference time: 12.50 ms
+2025-10-07 00:21:52,715 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:52,716 - src.utils.helpers - INFO - Frame 342/390
+2025-10-07 00:21:52,716 - src.utils.helpers - INFO - Image: plastic419.jpg
+2025-10-07 00:21:52,716 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.7369)
+2025-10-07 00:21:52,717 - src.utils.helpers - INFO - Inference time: 10.74 ms
+2025-10-07 00:21:54,725 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:54,725 - src.utils.helpers - INFO - Frame 343/390
+2025-10-07 00:21:54,725 - src.utils.helpers - INFO - Image: plastic432.jpg
+2025-10-07 00:21:54,725 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.4652)
+2025-10-07 00:21:54,725 - src.utils.helpers - INFO - Inference time: 19.33 ms
+2025-10-07 00:21:54,728 - src.utils.helpers - INFO - Added to retraining queue: plastic432.jpg
+2025-10-07 00:21:56,718 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:56,718 - src.utils.helpers - INFO - Frame 344/390
+2025-10-07 00:21:56,719 - src.utils.helpers - INFO - Image: plastic434.jpg
+2025-10-07 00:21:56,719 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9974)
+2025-10-07 00:21:56,719 - src.utils.helpers - INFO - Inference time: 12.18 ms
+2025-10-07 00:21:58,718 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:21:58,719 - src.utils.helpers - INFO - Frame 345/390
+2025-10-07 00:21:58,719 - src.utils.helpers - INFO - Image: plastic445.jpg
+2025-10-07 00:21:58,719 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.8904)
+2025-10-07 00:21:58,719 - src.utils.helpers - INFO - Inference time: 11.81 ms
+2025-10-07 00:22:00,721 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:00,721 - src.utils.helpers - INFO - Frame 346/390
+2025-10-07 00:22:00,722 - src.utils.helpers - INFO - Image: plastic453.jpg
+2025-10-07 00:22:00,722 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.6754)
+2025-10-07 00:22:00,722 - src.utils.helpers - INFO - Inference time: 14.70 ms
+2025-10-07 00:22:00,725 - src.utils.helpers - INFO - Added to retraining queue: plastic453.jpg
+2025-10-07 00:22:02,716 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:02,716 - src.utils.helpers - INFO - Frame 347/390
+2025-10-07 00:22:02,717 - src.utils.helpers - INFO - Image: plastic459.jpg
+2025-10-07 00:22:02,717 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.7114)
+2025-10-07 00:22:02,717 - src.utils.helpers - INFO - Inference time: 9.66 ms
+2025-10-07 00:22:04,717 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:04,717 - src.utils.helpers - INFO - Frame 348/390
+2025-10-07 00:22:04,718 - src.utils.helpers - INFO - Image: plastic47.jpg
+2025-10-07 00:22:04,718 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9950)
+2025-10-07 00:22:04,718 - src.utils.helpers - INFO - Inference time: 8.99 ms
+2025-10-07 00:22:06,718 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:06,718 - src.utils.helpers - INFO - Frame 349/390
+2025-10-07 00:22:06,719 - src.utils.helpers - INFO - Image: plastic471.jpg
+2025-10-07 00:22:06,719 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.5937)
+2025-10-07 00:22:06,719 - src.utils.helpers - INFO - Inference time: 9.24 ms
+2025-10-07 00:22:06,721 - src.utils.helpers - INFO - Added to retraining queue: plastic471.jpg
+2025-10-07 00:22:08,719 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:08,719 - src.utils.helpers - INFO - Frame 350/390
+2025-10-07 00:22:08,719 - src.utils.helpers - INFO - Image: plastic477.jpg
+2025-10-07 00:22:08,719 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.9453)
+2025-10-07 00:22:08,719 - src.utils.helpers - INFO - Inference time: 8.94 ms
+2025-10-07 00:22:10,720 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:10,721 - src.utils.helpers - INFO - Frame 351/390
+2025-10-07 00:22:10,721 - src.utils.helpers - INFO - Image: plastic48.jpg
+2025-10-07 00:22:10,721 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.5620)
+2025-10-07 00:22:10,721 - src.utils.helpers - INFO - Inference time: 10.47 ms
+2025-10-07 00:22:10,723 - src.utils.helpers - INFO - Added to retraining queue: plastic48.jpg
+2025-10-07 00:22:12,721 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:12,721 - src.utils.helpers - INFO - Frame 352/390
+2025-10-07 00:22:12,721 - src.utils.helpers - INFO - Image: plastic481.jpg
+2025-10-07 00:22:12,721 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.6861)
+2025-10-07 00:22:12,721 - src.utils.helpers - INFO - Inference time: 9.84 ms
+2025-10-07 00:22:12,724 - src.utils.helpers - INFO - Added to retraining queue: plastic481.jpg
+2025-10-07 00:22:14,722 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:14,722 - src.utils.helpers - INFO - Frame 353/390
+2025-10-07 00:22:14,722 - src.utils.helpers - INFO - Image: plastic49.jpg
+2025-10-07 00:22:14,723 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9947)
+2025-10-07 00:22:14,723 - src.utils.helpers - INFO - Inference time: 10.76 ms
+2025-10-07 00:22:16,725 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:16,725 - src.utils.helpers - INFO - Frame 354/390
+2025-10-07 00:22:16,726 - src.utils.helpers - INFO - Image: plastic54.jpg
+2025-10-07 00:22:16,726 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.8914)
+2025-10-07 00:22:16,726 - src.utils.helpers - INFO - Inference time: 12.27 ms
+2025-10-07 00:22:18,727 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:18,728 - src.utils.helpers - INFO - Frame 355/390
+2025-10-07 00:22:18,728 - src.utils.helpers - INFO - Image: plastic64.jpg
+2025-10-07 00:22:18,728 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.7655)
+2025-10-07 00:22:18,728 - src.utils.helpers - INFO - Inference time: 13.96 ms
+2025-10-07 00:22:20,724 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:20,724 - src.utils.helpers - INFO - Frame 356/390
+2025-10-07 00:22:20,724 - src.utils.helpers - INFO - Image: plastic68.jpg
+2025-10-07 00:22:20,724 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.7000)
+2025-10-07 00:22:20,725 - src.utils.helpers - INFO - Inference time: 10.79 ms
+2025-10-07 00:22:20,727 - src.utils.helpers - INFO - Added to retraining queue: plastic68.jpg
+2025-10-07 00:22:22,724 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:22,725 - src.utils.helpers - INFO - Frame 357/390
+2025-10-07 00:22:22,725 - src.utils.helpers - INFO - Image: plastic70.jpg
+2025-10-07 00:22:22,725 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.3684)
+2025-10-07 00:22:22,725 - src.utils.helpers - INFO - Inference time: 10.82 ms
+2025-10-07 00:22:22,728 - src.utils.helpers - INFO - Added to retraining queue: plastic70.jpg
+2025-10-07 00:22:24,724 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:24,725 - src.utils.helpers - INFO - Frame 358/390
+2025-10-07 00:22:24,725 - src.utils.helpers - INFO - Image: plastic73.jpg
+2025-10-07 00:22:24,725 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.6287)
+2025-10-07 00:22:24,725 - src.utils.helpers - INFO - Inference time: 10.00 ms
+2025-10-07 00:22:24,729 - src.utils.helpers - INFO - Added to retraining queue: plastic73.jpg
+2025-10-07 00:22:26,725 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:26,726 - src.utils.helpers - INFO - Frame 359/390
+2025-10-07 00:22:26,726 - src.utils.helpers - INFO - Image: plastic74.jpg
+2025-10-07 00:22:26,726 - src.utils.helpers - INFO - Predicted: metal (confidence: 0.3651)
+2025-10-07 00:22:26,726 - src.utils.helpers - INFO - Inference time: 11.40 ms
+2025-10-07 00:22:26,728 - src.utils.helpers - INFO - Added to retraining queue: plastic74.jpg
+2025-10-07 00:22:28,727 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:28,727 - src.utils.helpers - INFO - Frame 360/390
+2025-10-07 00:22:28,728 - src.utils.helpers - INFO - Image: plastic8.jpg
+2025-10-07 00:22:28,728 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.4213)
+2025-10-07 00:22:28,728 - src.utils.helpers - INFO - Inference time: 12.07 ms
+2025-10-07 00:22:28,732 - src.utils.helpers - INFO - Added to retraining queue: plastic8.jpg
+2025-10-07 00:22:30,727 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:30,727 - src.utils.helpers - INFO - Frame 361/390
+2025-10-07 00:22:30,727 - src.utils.helpers - INFO - Image: plastic80.jpg
+2025-10-07 00:22:30,728 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9801)
+2025-10-07 00:22:30,728 - src.utils.helpers - INFO - Inference time: 11.95 ms
+2025-10-07 00:22:32,726 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:32,727 - src.utils.helpers - INFO - Frame 362/390
+2025-10-07 00:22:32,727 - src.utils.helpers - INFO - Image: plastic84.jpg
+2025-10-07 00:22:32,727 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.4699)
+2025-10-07 00:22:32,727 - src.utils.helpers - INFO - Inference time: 8.38 ms
+2025-10-07 00:22:32,730 - src.utils.helpers - INFO - Added to retraining queue: plastic84.jpg
+2025-10-07 00:22:34,729 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:34,729 - src.utils.helpers - INFO - Frame 363/390
+2025-10-07 00:22:34,729 - src.utils.helpers - INFO - Image: plastic86.jpg
+2025-10-07 00:22:34,730 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.6590)
+2025-10-07 00:22:34,730 - src.utils.helpers - INFO - Inference time: 10.97 ms
+2025-10-07 00:22:34,732 - src.utils.helpers - INFO - Added to retraining queue: plastic86.jpg
+2025-10-07 00:22:36,729 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:36,730 - src.utils.helpers - INFO - Frame 364/390
+2025-10-07 00:22:36,730 - src.utils.helpers - INFO - Image: plastic90.jpg
+2025-10-07 00:22:36,730 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.3286)
+2025-10-07 00:22:36,731 - src.utils.helpers - INFO - Inference time: 11.48 ms
+2025-10-07 00:22:36,733 - src.utils.helpers - INFO - Added to retraining queue: plastic90.jpg
+2025-10-07 00:22:38,731 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:38,731 - src.utils.helpers - INFO - Frame 365/390
+2025-10-07 00:22:38,732 - src.utils.helpers - INFO - Image: plastic91.jpg
+2025-10-07 00:22:38,732 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9955)
+2025-10-07 00:22:38,732 - src.utils.helpers - INFO - Inference time: 12.05 ms
+2025-10-07 00:22:40,728 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:40,728 - src.utils.helpers - INFO - Frame 366/390
+2025-10-07 00:22:40,729 - src.utils.helpers - INFO - Image: plastic94.jpg
+2025-10-07 00:22:40,729 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9215)
+2025-10-07 00:22:40,729 - src.utils.helpers - INFO - Inference time: 10.38 ms
+2025-10-07 00:22:42,731 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:42,731 - src.utils.helpers - INFO - Frame 367/390
+2025-10-07 00:22:42,732 - src.utils.helpers - INFO - Image: plastic95.jpg
+2025-10-07 00:22:42,732 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.8757)
+2025-10-07 00:22:42,732 - src.utils.helpers - INFO - Inference time: 11.78 ms
+2025-10-07 00:22:44,732 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:44,732 - src.utils.helpers - INFO - Frame 368/390
+2025-10-07 00:22:44,732 - src.utils.helpers - INFO - Image: dummy_009.jpg
+2025-10-07 00:22:44,732 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.6628)
+2025-10-07 00:22:44,733 - src.utils.helpers - INFO - Inference time: 10.70 ms
+2025-10-07 00:22:44,735 - src.utils.helpers - INFO - Added to retraining queue: dummy_009.jpg
+2025-10-07 00:22:46,730 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:46,731 - src.utils.helpers - INFO - Frame 369/390
+2025-10-07 00:22:46,731 - src.utils.helpers - INFO - Image: trash100.jpg
+2025-10-07 00:22:46,731 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.9939)
+2025-10-07 00:22:46,732 - src.utils.helpers - INFO - Inference time: 11.42 ms
+2025-10-07 00:22:48,730 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:48,730 - src.utils.helpers - INFO - Frame 370/390
+2025-10-07 00:22:48,730 - src.utils.helpers - INFO - Image: trash106.jpg
+2025-10-07 00:22:48,730 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.9955)
+2025-10-07 00:22:48,730 - src.utils.helpers - INFO - Inference time: 9.58 ms
+2025-10-07 00:22:50,733 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:50,733 - src.utils.helpers - INFO - Frame 371/390
+2025-10-07 00:22:50,734 - src.utils.helpers - INFO - Image: trash107.jpg
+2025-10-07 00:22:50,735 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9488)
+2025-10-07 00:22:50,735 - src.utils.helpers - INFO - Inference time: 10.59 ms
+2025-10-07 00:22:52,734 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:52,735 - src.utils.helpers - INFO - Frame 372/390
+2025-10-07 00:22:52,735 - src.utils.helpers - INFO - Image: trash113.jpg
+2025-10-07 00:22:52,735 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.8685)
+2025-10-07 00:22:52,735 - src.utils.helpers - INFO - Inference time: 11.87 ms
+2025-10-07 00:22:54,732 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:54,732 - src.utils.helpers - INFO - Frame 373/390
+2025-10-07 00:22:54,733 - src.utils.helpers - INFO - Image: trash116.jpg
+2025-10-07 00:22:54,733 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.5958)
+2025-10-07 00:22:54,733 - src.utils.helpers - INFO - Inference time: 9.99 ms
+2025-10-07 00:22:54,735 - src.utils.helpers - INFO - Added to retraining queue: trash116.jpg
+2025-10-07 00:22:56,734 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:56,734 - src.utils.helpers - INFO - Frame 374/390
+2025-10-07 00:22:56,734 - src.utils.helpers - INFO - Image: trash117.jpg
+2025-10-07 00:22:56,734 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.8325)
+2025-10-07 00:22:56,734 - src.utils.helpers - INFO - Inference time: 10.92 ms
+2025-10-07 00:22:58,737 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:22:58,737 - src.utils.helpers - INFO - Frame 375/390
+2025-10-07 00:22:58,737 - src.utils.helpers - INFO - Image: trash118.jpg
+2025-10-07 00:22:58,738 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.9005)
+2025-10-07 00:22:58,738 - src.utils.helpers - INFO - Inference time: 12.99 ms
+2025-10-07 00:23:00,741 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:23:00,741 - src.utils.helpers - INFO - Frame 376/390
+2025-10-07 00:23:00,742 - src.utils.helpers - INFO - Image: trash122.jpg
+2025-10-07 00:23:00,742 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.7970)
+2025-10-07 00:23:00,742 - src.utils.helpers - INFO - Inference time: 16.57 ms
+2025-10-07 00:23:02,735 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:23:02,736 - src.utils.helpers - INFO - Frame 377/390
+2025-10-07 00:23:02,737 - src.utils.helpers - INFO - Image: trash136.jpg
+2025-10-07 00:23:02,737 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.6496)
+2025-10-07 00:23:02,737 - src.utils.helpers - INFO - Inference time: 10.58 ms
+2025-10-07 00:23:02,740 - src.utils.helpers - INFO - Added to retraining queue: trash136.jpg
+2025-10-07 00:23:04,736 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:23:04,736 - src.utils.helpers - INFO - Frame 378/390
+2025-10-07 00:23:04,736 - src.utils.helpers - INFO - Image: trash26.jpg
+2025-10-07 00:23:04,737 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.9887)
+2025-10-07 00:23:04,737 - src.utils.helpers - INFO - Inference time: 10.68 ms
+2025-10-07 00:23:06,737 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:23:06,737 - src.utils.helpers - INFO - Frame 379/390
+2025-10-07 00:23:06,737 - src.utils.helpers - INFO - Image: trash27.jpg
+2025-10-07 00:23:06,738 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.6728)
+2025-10-07 00:23:06,738 - src.utils.helpers - INFO - Inference time: 10.68 ms
+2025-10-07 00:23:06,742 - src.utils.helpers - INFO - Added to retraining queue: trash27.jpg
+2025-10-07 00:23:08,742 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:23:08,742 - src.utils.helpers - INFO - Frame 380/390
+2025-10-07 00:23:08,742 - src.utils.helpers - INFO - Image: trash29.jpg
+2025-10-07 00:23:08,743 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.4426)
+2025-10-07 00:23:08,743 - src.utils.helpers - INFO - Inference time: 15.94 ms
+2025-10-07 00:23:08,745 - src.utils.helpers - INFO - Added to retraining queue: trash29.jpg
+2025-10-07 00:23:10,739 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:23:10,739 - src.utils.helpers - INFO - Frame 381/390
+2025-10-07 00:23:10,740 - src.utils.helpers - INFO - Image: trash35.jpg
+2025-10-07 00:23:10,740 - src.utils.helpers - INFO - Predicted: glass (confidence: 0.7421)
+2025-10-07 00:23:10,740 - src.utils.helpers - INFO - Inference time: 13.35 ms
+2025-10-07 00:23:12,746 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:23:12,747 - src.utils.helpers - INFO - Frame 382/390
+2025-10-07 00:23:12,747 - src.utils.helpers - INFO - Image: trash4.jpg
+2025-10-07 00:23:12,747 - src.utils.helpers - INFO - Predicted: plastic (confidence: 0.9937)
+2025-10-07 00:23:12,747 - src.utils.helpers - INFO - Inference time: 19.32 ms
+2025-10-07 00:23:14,738 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:23:14,738 - src.utils.helpers - INFO - Frame 383/390
+2025-10-07 00:23:14,738 - src.utils.helpers - INFO - Image: trash53.jpg
+2025-10-07 00:23:14,738 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.6222)
+2025-10-07 00:23:14,738 - src.utils.helpers - INFO - Inference time: 10.29 ms
+2025-10-07 00:23:14,741 - src.utils.helpers - INFO - Added to retraining queue: trash53.jpg
+2025-10-07 00:23:16,738 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:23:16,738 - src.utils.helpers - INFO - Frame 384/390
+2025-10-07 00:23:16,739 - src.utils.helpers - INFO - Image: trash60.jpg
+2025-10-07 00:23:16,739 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.7880)
+2025-10-07 00:23:16,739 - src.utils.helpers - INFO - Inference time: 10.97 ms
+2025-10-07 00:23:18,740 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:23:18,741 - src.utils.helpers - INFO - Frame 385/390
+2025-10-07 00:23:18,741 - src.utils.helpers - INFO - Image: trash61.jpg
+2025-10-07 00:23:18,741 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9998)
+2025-10-07 00:23:18,741 - src.utils.helpers - INFO - Inference time: 11.74 ms
+2025-10-07 00:23:20,739 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:23:20,740 - src.utils.helpers - INFO - Frame 386/390
+2025-10-07 00:23:20,740 - src.utils.helpers - INFO - Image: trash79.jpg
+2025-10-07 00:23:20,740 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.9284)
+2025-10-07 00:23:20,740 - src.utils.helpers - INFO - Inference time: 9.35 ms
+2025-10-07 00:23:22,743 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:23:22,744 - src.utils.helpers - INFO - Frame 387/390
+2025-10-07 00:23:22,744 - src.utils.helpers - INFO - Image: trash8.jpg
+2025-10-07 00:23:22,744 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.5751)
+2025-10-07 00:23:22,744 - src.utils.helpers - INFO - Inference time: 12.14 ms
+2025-10-07 00:23:22,747 - src.utils.helpers - INFO - Added to retraining queue: trash8.jpg
+2025-10-07 00:23:24,744 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:23:24,744 - src.utils.helpers - INFO - Frame 388/390
+2025-10-07 00:23:24,745 - src.utils.helpers - INFO - Image: trash88.jpg
+2025-10-07 00:23:24,745 - src.utils.helpers - INFO - Predicted: trash (confidence: 0.4573)
+2025-10-07 00:23:24,745 - src.utils.helpers - INFO - Inference time: 14.81 ms
+2025-10-07 00:23:24,747 - src.utils.helpers - INFO - Added to retraining queue: trash88.jpg
+2025-10-07 00:23:26,744 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:23:26,744 - src.utils.helpers - INFO - Frame 389/390
+2025-10-07 00:23:26,745 - src.utils.helpers - INFO - Image: trash91.jpg
+2025-10-07 00:23:26,745 - src.utils.helpers - INFO - Predicted: paper (confidence: 0.5845)
+2025-10-07 00:23:26,745 - src.utils.helpers - INFO - Inference time: 13.13 ms
+2025-10-07 00:23:26,747 - src.utils.helpers - INFO - Added to retraining queue: trash91.jpg
+2025-10-07 00:23:28,743 - src.utils.helpers - INFO - 
+==================================================
+2025-10-07 00:23:28,743 - src.utils.helpers - INFO - Frame 390/390
+2025-10-07 00:23:28,744 - src.utils.helpers - INFO - Image: trash96.jpg
+2025-10-07 00:23:28,744 - src.utils.helpers - INFO - Predicted: cardboard (confidence: 0.9731)
+2025-10-07 00:23:28,744 - src.utils.helpers - INFO - Inference time: 10.36 ms
+2025-10-07 00:23:30,731 - src.utils.helpers - INFO - 
+============================================================
+2025-10-07 00:23:30,732 - src.utils.helpers - INFO - SIMULATION SUMMARY
+2025-10-07 00:23:30,733 - src.utils.helpers - INFO - ============================================================
+2025-10-07 00:23:30,733 - src.utils.helpers - INFO - Total frames processed: 390
+2025-10-07 00:23:30,735 - src.utils.helpers - INFO - Average confidence: 0.7976
+2025-10-07 00:23:30,735 - src.utils.helpers - INFO - Average inference time: 12.41 ms
+2025-10-07 00:23:30,736 - src.utils.helpers - INFO - Low confidence detections: 121 (31.0%)
+2025-10-07 00:23:30,736 - src.utils.helpers - INFO - 
+Class distribution:
+2025-10-07 00:23:30,737 - src.utils.helpers - INFO -   cardboard: 73 (18.7%)
+2025-10-07 00:23:30,737 - src.utils.helpers - INFO -   glass: 61 (15.6%)
+2025-10-07 00:23:30,737 - src.utils.helpers - INFO -   metal: 51 (13.1%)
+2025-10-07 00:23:30,738 - src.utils.helpers - INFO -   paper: 115 (29.5%)
+2025-10-07 00:23:30,738 - src.utils.helpers - INFO -   plastic: 57 (14.6%)
+2025-10-07 00:23:30,739 - src.utils.helpers - INFO -   trash: 33 (8.5%)
+2025-10-07 00:23:30,740 - src.utils.helpers - INFO - 
+Results saved to: results\simulation_results_20251007_001030.csv
+2025-10-07 00:23:30,744 - src.utils.helpers - INFO - Final report saved to: results\simulation_report_20251007_002330.json

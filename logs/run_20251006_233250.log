@@ -1,0 +1,11 @@
+2025-10-06 23:32:50,652 - src.utils.helpers - INFO - Downloading TrashNet dataset...
+2025-10-06 23:33:05,671 - src.utils.helpers - INFO - Download completed!
+2025-10-06 23:33:05,672 - src.utils.helpers - INFO - Extracting dataset...
+2025-10-06 23:33:06,892 - src.utils.helpers - INFO - Dataset preparation completed!
+2025-10-06 23:33:06,893 - src.utils.helpers - INFO - __MACOSX: 0 images
+2025-10-06 23:33:06,895 - src.utils.helpers - INFO - cardboard: 403 images
+2025-10-06 23:33:06,896 - src.utils.helpers - INFO - glass: 501 images
+2025-10-06 23:33:06,897 - src.utils.helpers - INFO - metal: 410 images
+2025-10-06 23:33:06,899 - src.utils.helpers - INFO - paper: 594 images
+2025-10-06 23:33:06,901 - src.utils.helpers - INFO - plastic: 482 images
+2025-10-06 23:33:06,901 - src.utils.helpers - INFO - trash: 137 images

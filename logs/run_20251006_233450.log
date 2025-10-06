@@ -1,0 +1,11 @@
+2025-10-06 23:34:50,619 - src.utils.helpers - INFO - Attempting alternative download method...
+2025-10-06 23:34:50,619 - src.utils.helpers - INFO - Due to download limitations, please:
+2025-10-06 23:34:50,619 - src.utils.helpers - INFO - 1. Visit https://github.com/garythung/trashnet
+2025-10-06 23:34:50,620 - src.utils.helpers - INFO - 2. Download the dataset manually
+2025-10-06 23:34:50,620 - src.utils.helpers - INFO - 3. Extract it to the data/raw folder
+2025-10-06 23:34:50,620 - src.utils.helpers - INFO - 4. Or use the dummy images created for testing
+2025-10-06 23:34:50,620 - src.utils.helpers - INFO - Creating sample dataset structure...
+2025-10-06 23:34:50,624 - src.utils.helpers - INFO - Sample dataset structure created!
+2025-10-06 23:34:50,624 - src.utils.helpers - INFO - Please manually download images for each class.
+2025-10-06 23:34:50,711 - src.utils.helpers - INFO - Creating dummy images for testing...
+2025-10-06 23:34:50,923 - src.utils.helpers - INFO - Dummy images created successfully!

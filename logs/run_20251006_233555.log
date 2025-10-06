@@ -1,0 +1,7 @@
+2025-10-06 23:35:55,320 - src.utils.helpers - INFO - Cleaning dataset...
+2025-10-06 23:35:59,491 - src.utils.helpers - WARNING - Removed corrupted image: data\raw\cardboard\download_instructions.txt
+2025-10-06 23:35:59,607 - src.utils.helpers - WARNING - Removed corrupted image: data\raw\glass\download_instructions.txt
+2025-10-06 23:36:04,382 - src.utils.helpers - WARNING - Removed corrupted image: data\raw\metal\download_instructions.txt
+2025-10-06 23:36:08,373 - src.utils.helpers - WARNING - Removed corrupted image: data\raw\paper\download_instructions.txt
+2025-10-06 23:36:13,908 - src.utils.helpers - WARNING - Removed corrupted image: data\raw\plastic\download_instructions.txt
+2025-10-06 23:36:18,485 - src.utils.helpers - WARNING - Removed corrupted image: data\raw\trash\download_instructions.txt

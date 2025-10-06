@@ -1,0 +1,10 @@
+2025-10-07 00:07:33,529 - src.utils.helpers - INFO - Loading model from models/best_model.pth
+2025-10-07 00:07:33,704 - src.utils.helpers - INFO - Exporting to ONNX: models\deployed\model.onnx
+2025-10-07 00:07:34,062 - src.utils.helpers - INFO - ONNX export completed successfully
+2025-10-07 00:07:34,241 - src.utils.helpers - INFO - ONNX model verified. Output shape: (1, 6)
+2025-10-07 00:07:34,248 - src.utils.helpers - INFO - Loading model from models/best_model.pth
+2025-10-07 00:07:34,410 - src.utils.helpers - INFO - Tracing model...
+2025-10-07 00:07:34,859 - src.utils.helpers - INFO - TorchScript model saved to models\deployed\model.pt
+2025-10-07 00:07:34,986 - src.utils.helpers - INFO - TorchScript model verified. Output shape: torch.Size([1, 6])
+2025-10-07 00:07:34,991 - src.utils.helpers - INFO - Model metadata saved to models\deployed\model_metadata.json
+2025-10-07 00:07:34,991 - src.utils.helpers - INFO - Model deployment preparation completed!

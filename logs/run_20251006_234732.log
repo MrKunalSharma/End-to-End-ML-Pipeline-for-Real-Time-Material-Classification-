@@ -1,0 +1,61 @@
+2025-10-06 23:47:36,641 - src.utils.helpers - INFO - Training on device: cpu
+2025-10-06 23:47:36,642 - src.utils.helpers - INFO - 
+Epoch 1/10
+2025-10-06 23:49:12,101 - src.utils.helpers - INFO - Train Loss: 1.3760, Train Acc: 0.4715
+2025-10-06 23:49:12,101 - src.utils.helpers - INFO - Val Loss: 1.1153, Val Acc: 0.5487
+2025-10-06 23:49:12,193 - src.utils.helpers - INFO - Model saved to models\best_model.pth
+2025-10-06 23:49:12,193 - src.utils.helpers - INFO - 
+Epoch 2/10
+2025-10-06 23:50:31,817 - src.utils.helpers - INFO - Train Loss: 1.1856, Train Acc: 0.5584
+2025-10-06 23:50:31,817 - src.utils.helpers - INFO - Val Loss: 1.6101, Val Acc: 0.4692
+2025-10-06 23:50:31,826 - src.utils.helpers - INFO - 
+Epoch 3/10
+2025-10-06 23:52:01,757 - src.utils.helpers - INFO - Train Loss: 1.0810, Train Acc: 0.5982
+2025-10-06 23:52:01,758 - src.utils.helpers - INFO - Val Loss: 0.8652, Val Acc: 0.6641
+2025-10-06 23:52:01,882 - src.utils.helpers - INFO - Model saved to models\best_model.pth
+2025-10-06 23:52:01,882 - src.utils.helpers - INFO - 
+Epoch 4/10
+2025-10-06 23:53:34,527 - src.utils.helpers - INFO - Train Loss: 0.9741, Train Acc: 0.6458
+2025-10-06 23:53:34,527 - src.utils.helpers - INFO - Val Loss: 1.2986, Val Acc: 0.5846
+2025-10-06 23:53:34,527 - src.utils.helpers - INFO - 
+Epoch 5/10
+2025-10-06 23:54:54,048 - src.utils.helpers - INFO - Train Loss: 0.9089, Train Acc: 0.6840
+2025-10-06 23:54:54,048 - src.utils.helpers - INFO - Val Loss: 0.7795, Val Acc: 0.7103
+2025-10-06 23:54:54,167 - src.utils.helpers - INFO - Model saved to models\best_model.pth
+2025-10-06 23:54:54,167 - src.utils.helpers - INFO - 
+Epoch 6/10
+2025-10-06 23:56:15,003 - src.utils.helpers - INFO - Train Loss: 0.8756, Train Acc: 0.6862
+2025-10-06 23:56:15,003 - src.utils.helpers - INFO - Val Loss: 1.0799, Val Acc: 0.6308
+2025-10-06 23:56:15,003 - src.utils.helpers - INFO - 
+Epoch 7/10
+2025-10-06 23:57:37,471 - src.utils.helpers - INFO - Train Loss: 0.8153, Train Acc: 0.7106
+2025-10-06 23:57:37,472 - src.utils.helpers - INFO - Val Loss: 0.7634, Val Acc: 0.7282
+2025-10-06 23:57:37,582 - src.utils.helpers - INFO - Model saved to models\best_model.pth
+2025-10-06 23:57:37,582 - src.utils.helpers - INFO - 
+Epoch 8/10
+2025-10-06 23:58:54,521 - src.utils.helpers - INFO - Train Loss: 0.7671, Train Acc: 0.7283
+2025-10-06 23:58:54,522 - src.utils.helpers - INFO - Val Loss: 0.8442, Val Acc: 0.7410
+2025-10-06 23:58:54,632 - src.utils.helpers - INFO - Model saved to models\best_model.pth
+2025-10-06 23:58:54,633 - src.utils.helpers - INFO - 
+Epoch 9/10
+2025-10-07 00:00:08,740 - src.utils.helpers - INFO - Train Loss: 0.7452, Train Acc: 0.7504
+2025-10-07 00:00:08,740 - src.utils.helpers - INFO - Val Loss: 1.1211, Val Acc: 0.6154
+2025-10-07 00:00:08,740 - src.utils.helpers - INFO - 
+Epoch 10/10
+2025-10-07 00:01:22,745 - src.utils.helpers - INFO - Train Loss: 0.7419, Train Acc: 0.7421
+2025-10-07 00:01:22,746 - src.utils.helpers - INFO - Val Loss: 1.0757, Val Acc: 0.6231
+2025-10-07 00:01:22,846 - src.utils.helpers - INFO - Model saved to models\final_model.pth
+2025-10-07 00:01:23,926 - src.utils.helpers - INFO - 
+Evaluating on test set...
+2025-10-07 00:01:32,493 - src.utils.helpers - INFO - 
+Test Accuracy: 0.7154
+2025-10-07 00:01:32,494 - src.utils.helpers - INFO - 
+Classification Report:
+2025-10-07 00:01:32,494 - src.utils.helpers - INFO - cardboard: precision=0.767, recall=0.903, f1-score=0.830
+2025-10-07 00:01:32,494 - src.utils.helpers - INFO - glass: precision=0.754, recall=0.597, f1-score=0.667
+2025-10-07 00:01:32,494 - src.utils.helpers - INFO - metal: precision=0.824, recall=0.667, f1-score=0.737
+2025-10-07 00:01:32,494 - src.utils.helpers - INFO - paper: precision=0.704, recall=0.890, f1-score=0.786
+2025-10-07 00:01:32,494 - src.utils.helpers - INFO - plastic: precision=0.737, recall=0.568, f1-score=0.641
+2025-10-07 00:01:32,495 - src.utils.helpers - INFO - trash: precision=0.364, recall=0.522, f1-score=0.429
+2025-10-07 00:01:32,495 - src.utils.helpers - INFO - macro avg: precision=0.692, recall=0.691, f1-score=0.682
+2025-10-07 00:01:32,495 - src.utils.helpers - INFO - weighted avg: precision=0.729, recall=0.715, f1-score=0.713

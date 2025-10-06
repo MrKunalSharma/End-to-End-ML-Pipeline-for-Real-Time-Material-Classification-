@@ -1,0 +1,13 @@
+2025-10-06 23:38:13,908 - src.utils.helpers - INFO - Cleaning dataset...
+2025-10-06 23:38:13,909 - src.utils.helpers - INFO - Removed system folder: __MACOSX
+2025-10-06 23:38:15,291 - src.utils.helpers - INFO - Cleaned 0 files
+2025-10-06 23:38:15,291 - src.utils.helpers - INFO - Creating train/val/test splits...
+2025-10-06 23:38:16,555 - src.utils.helpers - INFO - Data splits created successfully!
+2025-10-06 23:38:16,555 - src.utils.helpers - INFO - cardboard: Train=289, Val=62, Test=62
+2025-10-06 23:38:16,555 - src.utils.helpers - INFO - glass: Train=357, Val=77, Test=77
+2025-10-06 23:38:16,555 - src.utils.helpers - INFO - metal: Train=293, Val=64, Test=63
+2025-10-06 23:38:16,555 - src.utils.helpers - INFO - paper: Train=422, Val=91, Test=91
+2025-10-06 23:38:16,555 - src.utils.helpers - INFO - plastic: Train=344, Val=74, Test=74
+2025-10-06 23:38:16,556 - src.utils.helpers - INFO - trash: Train=102, Val=22, Test=23
+2025-10-06 23:38:16,556 - src.utils.helpers - INFO - Preprocessing images...
+2025-10-06 23:38:44,754 - src.utils.helpers - INFO - Image preprocessing completed!
