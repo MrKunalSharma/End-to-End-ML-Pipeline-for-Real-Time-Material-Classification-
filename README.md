@@ -6,7 +6,7 @@ End-to-end computer vision pipeline for real-time scrap sorting across 6 materia
 
 [![Status](https://img.shields.io/badge/status-active-success)](README.md)
 [![Python](https://img.shields.io/badge/python-3.9%2B-green)](README.md)
-[![License](https://img.shields.io/badge/license-MIT-blue)](README.md#-license)
+[![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
 </div>
 
@@ -21,7 +21,7 @@ End-to-end computer vision pipeline for real-time scrap sorting across 6 materia
 - [Results](#results)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#-license)
+- [License](#license)
 
 ## 🎯 Overview
 
@@ -159,8 +159,8 @@ Contributions are welcome! Please open an issue or a pull request. See the check
 
 ## 📄 License
 
-This project is licensed under the MIT License.
-# Material Classification Pipeline for Scrap Sorting
+This project is licensed under the MIT License — see [LICENSE](./LICENSE).
+ 
 
 An end-to-end machine learning pipeline for real-time material classification, designed to simulate an industrial scrap sorting system using computer vision.
 
