@@ -1,8 +1,9 @@
-﻿# Performance Report: Material Classification Pipeline
+﻿
+# Performance Report: Material Classification Pipeline
 
 ## Executive Summary
 
-This report presents the performance metrics and key findings from our end-to-end material classification pipeline designed for industrial scrap sorting applications.
+This report summarizes the model's performance, key insights from class-wise errors, and deployment readiness for an end-to-end material classification pipeline targeting industrial scrap sorting.
 
 ## Model Performance Metrics
 
@@ -18,31 +19,33 @@ This report presents the performance metrics and key findings from our end-to-en
 
 ### Confusion Matrix Analysis
 
-The confusion matrix reveals interesting patterns:
-- **Best Performing Classes**: Paper (88% correct), Cardboard (90% correct)
-- **Most Confused Classes**: Glass and Plastic often misclassified as each other
-- **Challenging Category**: Trash (mixed materials) shows lower accuracy
+The confusion matrix reveals the following patterns:
+- **Best performing**: Paper (88% correct), Cardboard (90% correct)
+- **Most confused**: Glass and Plastic frequently misclassified as each other
+- **Challenging**: Trash (mixed materials) shows lower accuracy
 
+Confusion matrix (counts):
 
+| Actual \\ Pred | Card | Glass | Metal | Paper | Plastic | Trash |
+|---|---:|---:|---:|---:|---:|---:|
+| Cardboard | 56 | 1 | 0 | 5 | 0 | 0 |
+| Glass | 4 | 46 | 5 | 3 | 12 | 7 |
+| Metal | 1 | 7 | 42 | 7 | 2 | 4 |
+| Paper | 6 | 0 | 0 | 81 | 0 | 4 |
+| Plastic | 4 | 18 | 4 | 0 | 45 | 11 |
+| Trash | 10 | 2 | 2 | 17 | 3 | 36 |
 
-                
-Actual\Predicted    Card    Glass    Metal    Paper    Plastic    Trash
-Cardboard    56    1    0    5    0    0
-Glass    4    46    5    3    12    7
-Metal    1    7    42    7    2    4
-Paper    6    0    0    81    0    4
-Plastic    4    18    4    0    45    11
-Trash    10    2    2    17    3    36
+For the visualization, see `results/confusion_matrix.png`.
 
 
 
 ## Inference Performance
 
 ### Speed Metrics
-- **Model Size**:
+- **Model size**:
   - PyTorch: 44.8 MB
   - ONNX: ~44.7 MB (optimized for deployment)
-- **Inference Speed**: Optimized for real-time processing
+- **Inference speed**: Optimized for real-time processing
 
 ## Real-Time Simulation Results
 
@@ -67,7 +70,7 @@ Trash    10    2    2    17    3    36
 ✅ 71.5% accuracy exceeds random chance (16.7%) by 4.3x  
 ✅ Lightweight model suitable for edge deployment  
 ✅ ONNX conversion enables cross-platform deployment  
-✅ Low confidence detection for quality control  
+✅ Low-confidence detection for quality control  
 ✅ Strong performance on paper/cardboard (recyclables)  
 
 ### Areas for Improvement
@@ -76,10 +79,10 @@ Trash    10    2    2    17    3    36
 ⚠️ Trash category needs more diverse training data  
 
 ### Recommendations
-1. **Data Augmentation**: Add more challenging angles and lighting conditions
-2. **Ensemble Methods**: Combine multiple models for plastic/glass differentiation
-3. **Multi-Stage Classification**: First detect transparent vs opaque, then classify
-4. **Active Learning**: Use low-confidence samples for targeted improvement
+1. **Data augmentation**: Add more challenging angles and lighting conditions
+2. **Ensemble methods**: Combine multiple models for plastic/glass differentiation
+3. **Multi-stage classification**: First detect transparent vs. opaque, then classify
+4. **Active learning**: Use low-confidence samples for targeted improvement
 
 ## Production Deployment Strategy
 
@@ -90,16 +93,16 @@ Trash    10    2    2    17    3    36
 
 ## Conclusion
 
-The material classification pipeline successfully demonstrates:
-- ✅ 71.5% accuracy across 6 diverse material categories
-- ✅ Real-time processing capabilities
+The pipeline demonstrates:
+- ✅ 71.5% accuracy across six material categories
+- ✅ Real-time processing capability
 - ✅ Production-ready deployment options
 - ✅ Clear path for iterative improvements
 
-While not perfect, this accuracy level is sufficient for:
-- Reducing manual sorting workload by >70%
-- Identifying high-confidence items for automated sorting
-- Flagging uncertain items for human review
-- Continuous improvement through active learning
+This accuracy is sufficient to:
+- Reduce manual sorting workload by >70%
+- Identify high-confidence items for automated sorting
+- Flag uncertain items for human review
+- Enable continuous improvement through active learning
 
-The system is ready for pilot deployment with recommended phased approach focusing on high-accuracy categories first.
+The system is ready for a pilot deployment, starting with high-accuracy categories and iterating per recommendations above.
